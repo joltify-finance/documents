@@ -13,6 +13,8 @@
 * [User Cases](how-joltify-lending-works/user-cases.md)
 * [Project-Based Lending](how-joltify-lending-works/project-based-lending/README.md)
   * [An Example Of A Solar Farm To Get Finance From Joltify](how-joltify-lending-works/project-based-lending/an-example-of-a-solar-farm-to-get-finance-from-joltify.md)
+* [Asset-Based Lending](how-joltify-lending-works/asset-based-lending/README.md)
+  * [A Commercial Development Asset Based Loan In Joltify](how-joltify-lending-works/asset-based-lending/a-commercial-development-asset-based-loan-in-joltify.md)
 
 ## Joltify Techs
 
