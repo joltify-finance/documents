@@ -1,4 +1,4 @@
-# Validator Election & punishment
+# Validator Election & Punishment
 
 Joltify have a dynamic validator set, which means every week, Joltify chain brings new nodes into the validator set while kick out the old nodes.  This gives a fair chance to validates to participants in the block generation. In Joltify, we selected the validators not only base on the user's deposit, but also based on their age as an active validator. &#x20;
 
@@ -38,5 +38,5 @@ A week later, Joltify will trigger the validator set churn, all the candidates' 
 
 It can be the chance that some validators are not performed correctly, this maybe the node is out of the sync with the blockchain network or some hardware failure.
 
-In Joltify chain, once a node is not perform correct (for example, submitting incorrect block proposal), it will be accumulated with the slashing points. Once the slashing points exceed the threshold, this node will be put in jail for a certain amount of time.&#x20;
+In Joltify chain, once a node is not perform correct (for example, submitting incorrect block proposal), it will be accumulated with the slashing points. Once the slashing points exceed the threshold, this node will be put in jail for a certain amount of time. If the node still fails to perform correctly, the node has the risk of losing a certain amount of staking jolt.&#x20;
 

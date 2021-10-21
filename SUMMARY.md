@@ -11,7 +11,8 @@
 ## Joltify Techs
 
 * [Joltify Chain Techs](joltify-techs/joltify-chain-techs/README.md)
-  * [Validator Election & punishment](joltify-techs/joltify-chain-techs/validator-election-and-punishment.md)
+  * [Validator Election & Punishment](joltify-techs/joltify-chain-techs/validator-election-and-punishment.md)
+  * [Joltify Chain Bridge](joltify-techs/joltify-chain-techs/joltify-chain-bridge.md)
 * [Joltify Validators](joltify-techs/joltify-validators.md)
 
 ## Tips and tricks
