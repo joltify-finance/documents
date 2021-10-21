@@ -2,18 +2,15 @@
 
 * [Introduction to Joltify](README.md)
 
-## The Basics
+## How Joltify lending works
 
-* [Background](the-basics/background.md)
-* [Business model in Joltify](the-basics/business-model-in-joltify/README.md)
-  * [Tokenize Document](the-basics/business-model-in-joltify/tokenize-document.md)
-* [The GitBook editor](the-basics/the-gitbook-editor.md)
-* [Live edit and locked edits](the-basics/live-edit-and-locked-edits.md)
-* [Change requests](the-basics/change-requests.md)
+* [Background](how-joltify-lending-works/background.md)
+* [Business model in Joltify](how-joltify-lending-works/business-model-in-joltify/README.md)
+  * [Tokenize Document](how-joltify-lending-works/business-model-in-joltify/tokenize-document.md)
 
-## Publishing
+## Joltify Techs
 
-* [Publishing your content](publishing/publishing-your-content.md)
+* [Publishing your content](joltify-techs/publishing-your-content.md)
 
 ## Tips and tricks
 
