@@ -10,7 +10,9 @@
 
 ## Joltify Techs
 
-* [Publishing your content](joltify-techs/publishing-your-content.md)
+* [Joltify Chain Techs](joltify-techs/joltify-chain-techs/README.md)
+  * [Validator Election & punishment](joltify-techs/joltify-chain-techs/validator-election-and-punishment.md)
+* [Joltify Validators](joltify-techs/joltify-validators.md)
 
 ## Tips and tricks
 

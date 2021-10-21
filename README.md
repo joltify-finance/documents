@@ -14,8 +14,8 @@ All the participants in Joltify chain will be paid by:&#x20;
 
 * Providing the liquidity for the real world projects.
 * Providing the liquidity for the jolt pool in the public pools.
-* Staking their jolt to operate a validator for joltify chain.
-* Staking their jolt to delegate an active valid tor that generating the jollity chain blocks.
+* Staking their jolt to operate a validator for Joltify chain.
+* Staking their jolt to delegate an active validator that generating the jollity chain blocks.
 
 
 
@@ -25,3 +25,6 @@ All the participants in Joltify chain will be paid by:&#x20;
 
 
 
+{% hint style="info" %}
+Good to Know: This document is not the final version of Joltify, it may be updated without notification.&#x20;
+{% endhint %}
