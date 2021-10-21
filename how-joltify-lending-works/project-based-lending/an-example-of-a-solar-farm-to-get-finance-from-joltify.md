@@ -2,6 +2,10 @@
 
 The sponsors create a project company Solar Power Plant  LLC via equity shareholder agreement. Solar Power Plant is the operation entity. There are three parts of the business:
 
+* [ ] Preparation:stage dealing with host government legal system, property rights, permits, concession agreements
+* [ ] Daily operation: construction, equipment, operation and maintenance contracts
+* [ ] Major business strategy decisions: off-take agreement(PPA)
+
 1\. Preparation:stage dealing with host government legal system, property rights, permits, concession agreements
 
 &#x20;2\. Daily operation: construction, equipment, operation and maintenance contracts
