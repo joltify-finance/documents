@@ -1,2 +1,0 @@
-# Capital Raise & Lending
-
