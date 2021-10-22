@@ -4,7 +4,7 @@
 
 NFT stands for "non-fungible token". Compare to normal token in the DeFi, it has more unique features since no two NFTs are even closely similar, not replaceable with similar tokens of any value. Therefore, It makes each single NFT to be  used as a perfect way for these use cases as real-world assets:  Digital Art, Fashion, License and Certification, Collectibles, Virtual Worlds, Gaming etc.&#x20;
 
-### The NFTs In The Joltify
+### The NFTs Process In The Joltify
 
 * There is a legal preparation for the sale of a loan using NFT.
 * The loan is minted, and this should include the descriptive and legal data about the loan.  This includes all image files, reports, disclosures, payments, payment schedules and all other paperwork.&#x20;
