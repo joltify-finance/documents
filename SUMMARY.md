@@ -18,7 +18,8 @@
 
 * [Asset-Based Lending](asset-based-lending/README.md)
   * [A Commercial Development Asset Based Loan In Joltify](asset-based-lending/a-commercial-development-asset-based-loan-in-joltify.md)
-* [Cash Flow-Based Lending](cash-flow-based-lending.md)
+* [Cash Flow-Based Lending](cash-flow-based-lending/README.md)
+  * [Cash Flow-Based Loan In Joltify To Help A Car Company Grow Its Business](cash-flow-based-lending/cash-flow-based-loan-in-joltify-to-help-a-car-company-grow-its-business.md)
 
 ## Joltify Techs
 

@@ -6,6 +6,6 @@ Advantages: default due to fund diversion minimized, loan size, terms and repaym
 
 Disadvantages: conservative loan sizes, initially, could work against low-income clients, not the best tool for determining loan requirement of projects needing capital expenditures or long-term investment
 
-![](<.gitbook/assets/pic cash loans (1).png>)
+![](<../.gitbook/assets/pic cash loans (1).png>)
 
 The above picture shows an example that it takes 60days for a company from paying for goods until the business collect cash from the customer. This company can not wait doing nothing until the cash back from customers. It is beneficial to both this company and investors to supply cash-based lending.
