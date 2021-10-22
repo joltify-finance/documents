@@ -13,6 +13,11 @@
 
 ### A Special Scenario In the NFT Ownership Transfer
 
-During the loan life period, there is a special need when one lender wants to sale the loan ownership while some other investor wants to invest in the loan. We create a market time for this special needs called "Window".&#x20;
+During the loan life period, there is a special need when one lender wants to sell the loan ownership while some other investor wants to invest in the loan. We create a market time for this special needs called "Window".&#x20;
 
-&#x20;Before the window opens, both the buys and sellers register their interest in the pool. The orders will be locked. When the window opens, these orders will be processed and executed at the same time in this order
+&#x20;Before the window opens, both the buys and sellers register their interest in the pool. The orders will be locked. When the window opens, these orders will be processed and executed at the same time in this order:
+
+1. The sellers redeem the existing NFTs back to the lender on a pro rata ratio to the buyers' order.&#x20;
+2. The lendee issues the new NFTs to the buyers.
+3. The buyer's stable coins are transferred to the sellers.&#x20;
+4. The previous existing NFTs will be burned.&#x20;
