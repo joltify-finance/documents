@@ -26,5 +26,5 @@ All the participants in Joltify chain will be paid by:&#x20;
 
 
 {% hint style="info" %}
-Good to Know: This document is not the final version of Joltify, it may be updated without notification.&#x20;
+Alert: This document is not the final version of Joltify, it may be updated without notification.&#x20;
 {% endhint %}

@@ -13,12 +13,3 @@
 * [Joltify Chain Techs](joltify-techs/joltify-chain-techs/README.md)
   * [Validator Election & Punishment](joltify-techs/joltify-chain-techs/validator-election-and-punishment.md)
   * [Joltify Chain Bridge](joltify-techs/joltify-chain-techs/joltify-chain-bridge.md)
-* [Joltify Validators](joltify-techs/joltify-validators.md)
-
-## Tips and tricks
-
-* [Speed up with quick find](tips-and-tricks/speed-up-with-quick-find.md)
-
-## Next steps
-
-* [What next?](next-steps/what-next.md)
