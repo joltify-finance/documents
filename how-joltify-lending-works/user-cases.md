@@ -1,9 +1,11 @@
-# User Cases
+# Utilization of Joltify in different lending environments
 
-Joltify is disrupting the traditional financial world in such a way that almost every aspect of the real-world lending can find its place in the Joltify.&#x20;
+Joltify was developed to disrupt the traditional financial world. We feel that there is a need and opportunity for Joltify to create a hybrid bridged enviroment between real-world and digital lending through the use of NFT's and our very own blockchain technology.&#x20;
 
-In this chapter, we will give three users cases corresponding to the three traditional world finance methods to demonstrate how real-world asset can be tokenized into NFT and get the finance in the Joltify.
+In the next chapter, we will give three examples of how and when Joltify can be utlised to bridge the gap between DeFi and traditional finance.&#x20;
 
-* [Project-Based Lending ](project-based-lending/)
+So, let's go ahead and demonstrate how real-world assets can be tokenized into NFT's and how Joltify will facilitate this.&#x20;
+
+* [Project-Based Lending](project-based-lending/)
 * [Asset-Based Lending](../asset-based-lending/)
 * [Cash Flow-Based Lending](../cash-flow-based-lending/)
