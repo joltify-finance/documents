@@ -10,8 +10,8 @@ To allow the token transfer from and to one public chain (for example, Ethereum 
 ### Transferring Tokens From Joltify Chain To Public Chain
 
 1. User Bob transfers his token to the bridge router on the Joltify chain end.
-2. Once the Joltify chain validator observes the transfer to the given bridge router end, it will transfer the corresponding token to Bob address on the public chain.
-3. Once the transfer transaction is confirmed on the public chain, the wrapped token is minted in Joltify chain will then be burned.
+2. Once the Joltify chain validator observes the transfer to the given bridge router end, it will transfer the corresponding token to Bobs address on the public chain.
+3. Once the transfer transaction is confirmed on the public chain, the wrapped token is minted in the Joltify chain and will then be burned.
 
 ### Bridging Transaction Verification and Signing
 

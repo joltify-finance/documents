@@ -6,9 +6,9 @@ coverY: 0
 
 ### What is Joltify
 
-Joltify is a unique, custom built, Cosmos based blockchain technology that aims to bridge real world asset to the decentralised finance world.
+Joltify is a unique, custom built, Cosmos based blockchain technology that aims to bridge real world assets to the decentralised finance world.
 
-Joltify is designed to amaglamate the immense amount of liquidity in the crypto world to real-world financial assets. Thus creating seamless synergies between the DeFi and traditional finance world.&#x20;
+Joltify is designed to amalgamate the immense amount of liquidity in the crypto world to real-world financial assets. Thus creating seamless synergies between the DeFi and traditional finance world.
 
 Participants within the Joltify chain can benefit in different ways, including but not limited to:
 
@@ -20,5 +20,5 @@ Participants within the Joltify chain can benefit in different ways, including b
 ### Terminologies in Joltify
 
 {% hint style="info" %}
-Note: the following document is for viewing purposes only and may be ammended closer to the project launch.&#x20;
+Note: the following document is for viewing purposes only and may be ammended closer to the project launch.
 {% endhint %}
