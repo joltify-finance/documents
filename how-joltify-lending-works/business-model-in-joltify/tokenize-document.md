@@ -1,10 +1,11 @@
 # Tokenize Document To NFTs
 
-### NFTs Is The Bridge To Tokenize The Real World Asset To The Blockchain
+### NFTs Allow Us to Bridge and Tokenize Real-World Assets into Our Blockchain, Joltify
 
-NFT stands for "non-fungible token". Compare to normal token in the DeFi, it has more unique features since no two NFTs are even closely similar, not replaceable with similar tokens of any value. Therefore, It makes each single NFT to be  used as a perfect way for these use cases as real-world assets:  Digital Art, Fashion, License and Certification, Collectibles, Virtual Worlds, Gaming etc.&#x20;
+NFT stands for "non-fungible token". They are becoming increasingly popular and as time and technology progress, we expect more and more people to utilise NFT's. Currently, the primary understanding on an NFT is linked to Digital Art and Digital Fashion. This is due to the success of art NFT projects such as CryptoPunks, Bored Ape Yacht Club and Art Blocks Curated. However, we must note that with Joltify, the primary use-case for NFTs is profoundly different. &#x20;
 
-The following picture shows how normally a document can be tokenized into a NFT.
+Our NFTs will be primarily utlised in relation to licenses and certifications, essentially used to outline ownership in the crypto world and merging use cases between DeFi and real-world projects.&#x20;
+
+The following diagram outlines how a document can be tokenized into an NFT.
 
 ![](../../.gitbook/assets/pic-nft.png)
-

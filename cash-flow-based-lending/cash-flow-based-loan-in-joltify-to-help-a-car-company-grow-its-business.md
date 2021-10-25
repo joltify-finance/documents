@@ -1,11 +1,14 @@
 # Cash Flow-Based Loan In Joltify To Help A Car Company Grow Its Business
 
-The following example shows how a car company can work with Joltify to expand its business.
+The following example shows how a car company can work with JOLTIFY to expand its business.
 
 ![](../.gitbook/assets/pic-carloan.png)
 
-When consumers buy their car, they get an auto loan. This car sales company sold 1000 cars and has 20 million loans.&#x20;
+Let's use the example of a Car Dealership that sells 1,000 cars p/a with an average car price of $20,000. This means they would have distributed $20m in car loans.&#x20;
 
-Rating agencies evaluate the collateral, in this case the auto loans, and model the transaction, setting up levels which will result in a rating for the collateral.
+Currently, credit agencies evaluate the collateral, they then look into the customers the credit history and risk of the loan default, which helps them ascertain the loan interest rate.&#x20;
 
-These collaterals are minted to NFTs and sold to investors in the Joltify with detailed disclosure about the collateral (the car loans).
+Once collaterals are understood, they can then be minted into NFT's and sold to investors within the JOLTIFY network, with detailed disclosure about the collateral (the car loan).
+
+
+

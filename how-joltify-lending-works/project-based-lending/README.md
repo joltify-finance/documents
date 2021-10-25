@@ -1,9 +1,12 @@
 # Project-Based Lending
 
-A method of cash flow lending, which is based on the future or expected cash flows of the project or activity to be financed
+Project-based lending is a method of cash flow lending. It is based on the future or expected cash flows of a project or activity that is to be to be financed.
 
-&#x20;Collateral is of secondary consideration, primary consideration is the viability of the project
+Collateral is the secondary consideration, primary consideration is the viability of the project itself.&#x20;
 
-Advantages: repayment is based on future flow of the project, start-ups projects may qualify, best suited for development
+Advantages: The repayment is based on the future flow of the project, start-ups projects may qualify, best suited for development
 
-Disadvantages: highly prone to diversion of loan proceeds by borrower, highly vulnerable to various project risks, require extensive analysis on feasibility/viability of the project
+Disadvantages: Small risk of diversion of loan proceeds by the borrowers. Has elements of vulnerability variant on project risks, it also may require some analysis on the viability of the project, to ensure project success.&#x20;
+
+
+
