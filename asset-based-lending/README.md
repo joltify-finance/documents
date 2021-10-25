@@ -1,3 +1,12 @@
 # Asset-Based Lending
 
-According to Wikipedia, Asset-based lending is any kind of lending secured by an asset. This means, if the loan is not repaid, the asset is taken. In this sense, a mortgage is an example of an asset-based loan. More commonly however, the phrase is used to describe lending to business and large corporations using assets not normally used in other loans. Typically, the different types of asset-based loans include accounts receivable financing, inventory financing, equipment financing, or real estate financing. Asset-based lending in this more specific sense is possible only in certain countries whose legal systems allow borrowers to pledge such assets to lenders as collateral for loans (through the creation of enforceable security interests).
+
+
+What is Asset-Based Lending?&#x20;
+
+Asset-based lending is the element of loaning money that is within an agreement secured specifically by collateral. An asset-based loan or line of credit may be secured by inventory, accounts receivable, equipment, or other property owned by the borrower.&#x20;
+
+It's commonly used by larger corporations who use assets that might not normally be utilised in other forms of loans. This form of borrowing is far more prevalent in countries whose legal system allows for borrowers to pledge such assets to lenders as collateral for loans. (through the creation of enforceable security interests)
+
+
+
