@@ -10,7 +10,7 @@
   * [NFT Ownership Transfer](how-joltify-lending-works/business-model-in-joltify/nft-ownership-transfer.md)
 * [Utilization of Joltify in different lending environments](how-joltify-lending-works/user-cases.md)
 * [Project-Based Lending](how-joltify-lending-works/project-based-lending/README.md)
-  * [A Solar Farm To Get Finance From Joltify](how-joltify-lending-works/project-based-lending/a-solar-farm-to-get-finance-from-joltify.md)
+  * [Use case: A Solar Farm Financed by JOLTIFY.](how-joltify-lending-works/project-based-lending/a-solar-farm-to-get-finance-from-joltify.md)
 
 ***
 
