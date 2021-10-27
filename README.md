@@ -27,4 +27,4 @@ Participants within the JOLTIFY chain can benefit in different ways, including b
 
 **ICC:** International Chamber of Commerce.
 
-NFT: Stands for a **non-fungible token** (**NFT**). It is a unique and non-interchangeable unit of data stored on a digital ledger.
+**NFT:** Stands for a **non-fungible token** (**NFT**). It is a unique and non-interchangeable unit of data stored on a digital ledger.
