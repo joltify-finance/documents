@@ -22,7 +22,7 @@ We give a high-level description of how the project will repay the money back to
 1. The project repays the money borrowed from the SPV and the contract between the project and the SPV is fulfilled.
 2. The SPV will pay the investor in full and the contract between the SPV and the investors are fulfilled.
 
-### NFT ownership transfer
+### NFT Ownership Transfer
 
 ![Fig 3](../../.gitbook/assets/re\_buy.png)
 
