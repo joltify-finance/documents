@@ -1,6 +1,6 @@
 # Business Model In JOLTIFY
 
-This chapter, we explain how the project tokenizes the real world finance requirement and how the investors invest their money into the system, to get their fixed APY from the projects.
+In this chapter, we explain how the project tokenizes the real world finance requirement and how the investors invest their money into the system, to get their fixed APY from the projects.
 
 ## Capital Raise & Lending
 
