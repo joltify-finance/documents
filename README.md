@@ -35,3 +35,9 @@ Participants within the JOLTIFY chain can benefit in different ways, including b
 
 **PPA: **Power Purchase Agreement.
 
+**NFT Creator: **The SPV which wants to raise the funds in the JOLTIFY.
+
+**NFT Owner: **The person or entity who possess the NFT.&#x20;
+
+**NFT Buyer:** It can be the investors who want to invest in the NFT at the beginning or during the whole project period before the maturity date or the SPV who buys back the NFT.
+
