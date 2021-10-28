@@ -6,6 +6,8 @@ Advantages: Default due to fund diversion minimized, loan size, terms and repaym
 
 Disadvantages: Loan size may be conservative as it is relative to repayment capacity, this could work against lower-income earners or people who may be asset rich, without significant cash-flow revenue.
 
-![](<../.gitbook/assets/pic cash loans (1).png>)
+![](../.gitbook/assets/Image-07.png)
+
+
 
 Above, we can see why Joltify can be utilized for businesses to have more liquidity at hand, meaning that they can better facilitate their creditors and debtors. We have used an example of a 60-day payment cycle above.

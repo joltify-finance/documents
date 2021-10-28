@@ -6,4 +6,4 @@ The Property development company is in charge of the whole process of this comme
 
 SPV will use the JOLTIFY platform to tokenize NFT using loans as collateral and get access to the fund liquidity in the JOLTIFY from JOLTIFY investors. During the loan's lifetime, the SPV company will pay the interest rates by the scheduled time and buy back the NFT when the loan ends.
 
-![](<../.gitbook/assets/pic-assetbasedloan (6).png>)
+![](../.gitbook/assets/Image-06.png)

@@ -14,4 +14,4 @@ Once the off-take agreement is done, it is assumed that there will be cash flow 
 
 Now the SPV can tokenize this real world asset, the expected cash flow guaranteed by the off-take agreement of the Solar Power Plant LLC via NFT is used as collateral. The NFT is minted based on the document created and shared in the JOLTIFY Chain. The price of the NFT, financing fees and financing amount is determined by the on-chain pricing mechanism or off-chain mechanism, e.g. "Oracles". Once these terms are determined, the SPV can get access to the financing from JOLTIFY investors via locked NFT. At the repayment of the financing, the NFT is unlocked and transferred back to SPV/Asset Originator.
 
-![](<../../.gitbook/assets/project finance solar.png>)
+![](../../.gitbook/assets/Image-05.png)

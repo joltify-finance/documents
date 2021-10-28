@@ -15,7 +15,7 @@ We give a high-level description of how the verified investors can lend the mone
 
 ### Project Repayment
 
-![Fig 2](../../.gitbook/assets/repayment.png)
+![](../../.gitbook/assets/number\_2.png)
 
 We give a high-level description of how the project will repay the money back to the investor.
 
@@ -24,7 +24,7 @@ We give a high-level description of how the project will repay the money back to
 
 ### NFT Ownership Transfer
 
-![Fig 3](../../.gitbook/assets/re\_buy.png)
+![](../../.gitbook/assets/Image-03.png)
 
 We give a high-level description of how the project repay the money back to the investor. The details can be found [here](nft-ownership-transfer.md).
 
