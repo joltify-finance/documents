@@ -10,7 +10,7 @@ Note: JOLTIFY in reality, will begin with 11 nodes, we go into detail with how t
 
 A week later, Joltify will trigger the validator set to churn, all the candidates' voting power will be re-calculated, the node 2 will quit the validator set and node 5 is brought into the validator set. Node 2 will be in the candidate validator set and waiting for the incoming churn to join the active validator set once again.
 
-![Fig 4 validator election](../../.gitbook/assets/node\_churn.png)
+![](../../.gitbook/assets/Image-09.png)
 
 ### Validator Punishment
 

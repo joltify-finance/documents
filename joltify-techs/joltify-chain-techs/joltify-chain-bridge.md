@@ -24,6 +24,6 @@ The following figure shows how the validators sign an out-bound transaction.
 3. Other validators will participate in the signature generation as well, and finally, all the validators will get the signature of the corresponding transaction and put the corresponding transaction on JOLTIFY Chain.
 4. If the transaction is an inbound transaction, the equivalent token will be minted on the JOLTIFY chain. If it is the outbound transaction, the token will then be transferred to the user's wallet with the approval of the validators.
 
-![Validators Sign On Transactions](../../.gitbook/assets/signature.png)
+![Validators Sign On Transactions](../../.gitbook/assets/Image-10.png)
 
 ###

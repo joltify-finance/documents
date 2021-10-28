@@ -4,7 +4,7 @@ In this chapter, we explain how the project tokenizes the real world finance req
 
 ## Capital Raise & Lending
 
-![](../../.gitbook/assets/put\_on\_chain.png)
+![](../../.gitbook/assets/Image-01.png)
 
 We give a high-level description of how the verified investors can lend the money to the project. [Three different users cases](../user-cases.md) have been set up to demonstrate how capital raising and lending works in the JOLTIFY network.
 
@@ -15,7 +15,7 @@ We give a high-level description of how the verified investors can lend the mone
 
 ### Project Repayment
 
-![](../../.gitbook/assets/number\_2.png)
+![](../../.gitbook/assets/Image-02.png)
 
 We give a high-level description of how the project will repay the money back to the investor.
 
