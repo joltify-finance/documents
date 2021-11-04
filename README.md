@@ -19,7 +19,7 @@ Participants within the JOLTIFY chain can benefit in different ways, including b
 
 ### Terminologies In JOLTIFY
 
-\*\*DeFi: \*\*Short for Decentralized Finance. It is a blockchain-based form of finance that does not rely on central financial intermediaries such as banks, and instead utilizes smart contracts on blockchains.
+**DeFi:** Short for Decentralized Finance. It is a blockchain-based form of finance that does not rely on central financial intermediaries such as banks, and instead utilizes smart contracts on blockchains.
 
 **SMEs:** Small and Medium-Sized Enterprises.
 
@@ -29,7 +29,7 @@ Participants within the JOLTIFY chain can benefit in different ways, including b
 
 **NFT:** Stands for a non-fungible token (NFT). It is a unique and non-interchangeable unit of data stored on a digital ledger.
 
-\*\*SPV: **Short for** \*\*Special Purpose Vehicle. A special purpose vehicle, also called a special purpose entity (SPE), is a subsidiary created by a parent company to isolate financial risk. Its legal status as a separate company makes its obligations secure even if the parent company goes bankrupt.
+**SPV:** Short for Special Purpose Vehicle. A special purpose vehicle, also called a special purpose entity (SPE), is a subsidiary created by a parent company to isolate financial risk. Its legal status as a separate company makes its obligations secure even if the parent company goes bankrupt.
 
 **AO: ** Asset Originator.
 
