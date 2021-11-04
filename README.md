@@ -31,7 +31,7 @@ Participants within the JOLTIFY chain can benefit in different ways, including b
 
 **SPV:** Short for Special Purpose Vehicle. A special purpose vehicle, also called a special purpose entity (SPE), is a subsidiary created by a parent company to isolate financial risk. Its legal status as a separate company makes its obligations secure even if the parent company goes bankrupt.
 
-**AO: ** Asset Originator.
+**AO:** Asset Originator.
 
 **PPA:** Power Purchase Agreement.
 
