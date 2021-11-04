@@ -19,7 +19,7 @@ Participants within the JOLTIFY chain can benefit in different ways, including b
 
 ### Terminologies In JOLTIFY
 
-**DeFi:  **Short for Decentralized Finance.  It is a blockchain-based form of finance that does not rely on central financial intermediaries such as banks, and instead utilizes smart contracts on blockchains.
+\*\*DeFi: \*\*Short for Decentralized Finance. It is a blockchain-based form of finance that does not rely on central financial intermediaries such as banks, and instead utilizes smart contracts on blockchains.
 
 **SMEs:** Small and Medium-Sized Enterprises.
 
@@ -29,15 +29,14 @@ Participants within the JOLTIFY chain can benefit in different ways, including b
 
 **NFT:** Stands for a non-fungible token (NFT). It is a unique and non-interchangeable unit of data stored on a digital ledger.
 
-**SPV:  **Short for** **Special Purpose Vehicle. A special purpose vehicle, also called a special purpose entity (SPE), is a subsidiary created by a parent company to isolate financial risk. Its legal status as a separate company makes its obligations secure even if the parent company goes bankrupt.
+\*\*SPV: **Short for** \*\*Special Purpose Vehicle. A special purpose vehicle, also called a special purpose entity (SPE), is a subsidiary created by a parent company to isolate financial risk. Its legal status as a separate company makes its obligations secure even if the parent company goes bankrupt.
 
-**AO: **Asset Originator.
+**AO: ** Asset Originator.
 
-**PPA: **Power Purchase Agreement.
+**PPA:** Power Purchase Agreement.
 
-**NFT Creator: **The SPV which wants to raise the funds in the JOLTIFY.
+**NFT Creator:** The SPV which wants to raise the funds in the JOLTIFY.
 
-**NFT Owner: **The person or entity who possess the NFT.&#x20;
+**NFT Owner:** The person or entity who possess the NFT.
 
 **NFT Buyer:** It can be the investors who want to invest in the NFT at the beginning or during the whole project period before the maturity date or the SPV who buys back the NFT.
-
