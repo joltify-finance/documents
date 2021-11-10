@@ -8,6 +8,7 @@
 * [Business Model In JOLTIFY](how-joltify-lending-works/business-model-in-joltify/README.md)
   * [Tokenize Document To NFTs](how-joltify-lending-works/business-model-in-joltify/tokenize-document.md)
   * [NFT Ownership Transfer](how-joltify-lending-works/business-model-in-joltify/nft-ownership-transfer.md)
+  * [Token Economics](how-joltify-lending-works/business-model-in-joltify/token-economics.md)
 * [Utilization of JOLTIFY In Different lending Environments](how-joltify-lending-works/user-cases.md)
 * [Project-Based Lending](how-joltify-lending-works/project-based-lending/README.md)
   * [Use Case: A Solar Farm Financed By JOLTIFY](how-joltify-lending-works/project-based-lending/a-solar-farm-to-get-finance-from-joltify.md)
