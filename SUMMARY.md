@@ -25,3 +25,7 @@
 * [JOLTIFY Chain Techs](joltify-techs/joltify-chain-techs/README.md)
   * [Validator Election & Punishment](joltify-techs/joltify-chain-techs/validator-election-and-punishment.md)
   * [JOLTIFY Chain Bridge](joltify-techs/joltify-chain-techs/joltify-chain-bridge.md)
+* [Joltify staking pool](joltify-techs/joltify-staking-pool/README.md)
+  * [Add JOLT and LP Token to Metamask](joltify-techs/joltify-staking-pool/add-jolt-and-lp-token-to-metamask.md)
+  * [Staking JOLT/LP Token](joltify-techs/joltify-staking-pool/staking-jolt-lp-token.md)
+  * [Withdraw JOLT/LP Token](joltify-techs/joltify-staking-pool/withdraw-jolt-lp-token.md)
