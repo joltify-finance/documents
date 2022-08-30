@@ -41,3 +41,8 @@
 * [Check The Transaction Information At Joltify Block Explorer](check-the-transaction-information-at-joltify-block-explorer.md)
 * [Check The Transaction Information At BNB Smart Chain Testnet Explorer](check-the-transaction-information-at-bnb-smart-chain-testnet-explorer.md)
 * [How to transfer JUSDs from BSC to Joltify Chain?](how-to-transfer-jusds-from-bsc-to-joltify-chain.md)
+
+## Group 1
+
+* [Terms Of Use](group-1/terms-of-use/README.md)
+  * [WEBSITE, Joltify Protocol and OPPY Chain TERMS AND CONDITIONS OF USE](group-1/terms-of-use/website-joltify-protocol-and-oppy-chain-terms-and-conditions-of-use.md)
