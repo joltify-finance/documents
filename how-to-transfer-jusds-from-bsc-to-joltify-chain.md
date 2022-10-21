@@ -20,4 +20,4 @@
 
 ![](<.gitbook/assets/TransfterTokensFromBSCtoJoltify5 (1).png>)
 
-**If you want to check the transaction information at the** [**BNB Smart Chain Testnet Explorer**](https://testnet.bscscan.com) **or at the** [**Joltify Block explorer**](https://test.blockscan.joltify.io)**, please see** [**Check The Transaction Information At BNB Smart Chain Testnet Explorer**](check-the-transaction-information-at-bnb-smart-chain-testnet-explorer.md) **and** [**Check The Transaction Information At Joltify Block Explorer**](check-the-transaction-information-at-joltify-block-explorer.md) **for more details.**
+**If you want to check the transaction information at the** [**BNB Smart Chain Testnet Explorer**](https://testnet.bscscan.com/) **or at the** [**Joltify Block explorer**](https://test.blockscan.joltify.io/)**, please see** [**Check The Transaction Information At BNB Smart Chain Testnet Explorer**](check-the-transaction-information-at-bnb-smart-chain-testnet-explorer.md) **and** [**Check The Transaction Information At Joltify Block Explorer**](check-the-transaction-information-at-joltify-block-explorer.md) **for more details.**

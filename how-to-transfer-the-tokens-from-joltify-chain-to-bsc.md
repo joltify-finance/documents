@@ -36,4 +36,4 @@ __
 
 ![](.gitbook/assets/TransfterTokensFromBSCtoJoltify8.png)
 
-**You can check the transaction information in two ways. One is to check the transaction information at** [**Joltify Block Explorer**](https://test.blockscan.joltify.io)**, Another is to check at the**[ **** ](https://testnet.bscscan.com)****[**BscScan Testnet Explorer**](https://testnet.bscscan.com)**.**
+**You can check the transaction information in two ways. One is to check the transaction information at** [**Joltify Block Explorer**](https://test.blockscan.joltify.io/)**, Another is to check at the**[ **** ](https://testnet.bscscan.com/)****[**BscScan Testnet Explorer**](https://testnet.bscscan.com/)**.**

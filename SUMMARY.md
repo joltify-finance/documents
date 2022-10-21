@@ -45,4 +45,4 @@
 ## Group 1
 
 * [Terms Of Use](group-1/terms-of-use/README.md)
-  * [WEBSITE, Joltify Protocol and OPPY Chain TERMS AND CONDITIONS OF USE](group-1/terms-of-use/website-joltify-protocol-and-oppy-chain-terms-and-conditions-of-use.md)
+  * [WEBSITE, JOLTIFY PROTOCOL AND JOLTIFY CHAIN  TERMS AND CONDITIONS OF USE](group-1/terms-of-use/website-joltify-protocol-and-joltify-chain-terms-and-conditions-of-use.md)
