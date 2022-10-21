@@ -172,7 +172,7 @@
 
 &#x20;
 
-(c) You agree and acknowledge that Joltify DAO or OPPY DAO can vary the Services Fee at any time.
+(c) You agree and acknowledge that Joltify DAO or Joltify DAO can vary the Services Fee at any time.
 
 &#x20;
 
