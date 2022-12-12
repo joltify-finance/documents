@@ -4,7 +4,7 @@ JOLTIFY is the Byzantine Fault Tolerance (BFT) based proof-of-stake public block
 
 The Joltify chain is built on 11 active validators which generate and broadcast the blocks to the network. Validators who participate in the block generation will be paid by the transaction fee plus the incentives emitted from the Joltify project. We anticipate there will be a need to have more active validators, as the demand for Joltify increases.
 
-The selection of the validators is based on the total JOLT they staked plus the age of the validation. The details of the validators election can be found in the section [here.](validator-election-and-punishment.md)
+The selection of the validators is based on the total JOLT they staked plus the age of the validation. The details of the validators election can be found in the section [here.](broken-reference)
 
 To maintain the health and longevity of the JOLTIFY chain, a punishment policy is introduced to the system to penalize the validators that perform negatively within the JOLTIFY chain. The misbehavior of the validators may be sent to 'jail' (which will stop them from incurring the JOLTIFY chain rewards) for a certain amount of time or even lose a portion of their total sums deposited and the ability to use our platform.
 

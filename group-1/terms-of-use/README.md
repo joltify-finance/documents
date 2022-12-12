@@ -1,2 +1,0 @@
-# Terms Of Use
-
