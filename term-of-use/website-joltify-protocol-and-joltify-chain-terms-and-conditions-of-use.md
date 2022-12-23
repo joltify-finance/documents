@@ -4,7 +4,7 @@
 
 &#x20;Welcome to Joltify.io and its subdomains such as docs.joltify.io, app.joltify.io etc (the **'Website**'). The Website provides access to the Joltify chain (the ‘Joltify’ or ‘JOLTIFY’, or ‘Joltify Chain’, or 'JOLTIFY Chain', or ‘Joltify Protocol’ or ‘JOLTIFY Protocol’, or ‘joltify protocol’), a decentralized peer-to-peer blockchain (the '**Services**'). For the avoidance of doubt, any references to Services also refers to the use of the Joltify Chain. The Services is provided through free, public, and open-source software blockchain,
 
-(a) The Website is operated by DEEP THOUGHT VENTURES 42 INC. (or ‘**We**’ or ‘**Us**’) Access to and use of the Website, or any of its associated Products or Services, is provided by DEEP THOUGHT VENTURES 42 INC. Please read these terms and conditions (the '**Terms**') carefully. By using, browsing and/or reading the Website, this signifies that you have read, understood and agree to be bound by the Terms. If you do not agree with the Terms, you must cease usage of the Website, or any of Services, immediately.
+(a) The Website is operated by DEEP THOUGHT VENTURES 42 INC. (or ‘**We**’ or ‘**Us**’ or the '**Company**') Access to and use of the Website, or any of its associated Products or Services, is provided by DEEP THOUGHT VENTURES 42 INC. Please read these terms and conditions (the '**Terms**') carefully. By using, browsing and/or reading the Website, this signifies that you have read, understood and agree to be bound by the Terms. If you do not agree with the Terms, you must cease usage of the Website, or any of Services, immediately.
 
 (b)DEEP THOUGHT VENTURES 42 INC reserves the right to review and change any of the Terms by updating this page at its sole discretion. When DEEP THOUGHT VENTURES 42 INC updates the Terms, it will use reasonable endeavours to provide you with notice of updates to the Terms. Any changes to the Terms take immediate effect from the date of their publication.
 
@@ -15,6 +15,14 @@
 &#x20;(c) JOLTIFY is a decentralized peer-to-peer blockchain that aims to bridge real world assets to the decentralized finance world. JOLTIFY is a lending platform for lending and borrowing cryptocurrency tokens, such as Atom,,BNB, etc. JOLTIFY is designed to amalgamate liquidity in the crypto world to real world financial assets. JOLTIFY will allow traditional asset managers to tokenise, by minting tokens on JOLTIFY (“**Products**”) and offer real world asset investment opportunities to accredited investors via cryptocurrency and smart contracts or other blockchain technologies.
 
 (d)Blockchain is a rapidly changing technology. The crypto industry also involves rapidly changing business models. We and JOLTIFY reserve the right to make changes to our technology and business models, including but not limited to developing new Products and Services for broad applications, or moving to other blockchains or chaning to other blockchain applications completely.
+
+(e)Joltify is using bridge technology developed by the team at Deep Thought Ventures 42 Inc. This technology is an open-source software licensed under the Apache v2 license and can be used freely by any third parties. The purpose of using the bridge in Joltify is to make it easy to transfer tokens in and out of the platform.
+
+Deep Thought Ventures 42 INC may continue to develop and use its bridge technology in other projects that the Company develops. Joltify may not follow all updates to the bridge technology, as its current business model is focused on digital and real-world asset lending. The purpose of Joltify's use of the bridge is not to generate revenue, though it may potentially bring value to Jolt in other ways.
+
+In the future, Joltify may choose to terminate the use of the Company's bridge in its own chain and instead use bridges from other projects or chains, either from Deep Thought Ventures 42 INC or from other third-party projects,softwares or chains, in order to diversify risks and focus on its core business.
+
+(f)Decentralized management accounts in both public chains and Joltify are shared by all users. While this adds liquidity to the bridge, it also increases the risk of the bridge being hacked or suffering from other issues. Building a bridge between different chains is a complex task, and the rapidly changing nature of blockchain technology adds to the difficulty. Despite this, the bridge is a crucial function in connecting different chains, as without it, block chains are like isolated islands. Joltify will take all necessary measures to protect the safety of the accounts and the bridge, but there is no guarantee that the bridge will be completely risk-free. Users should be aware that they bear the risks of hacking, chain breaks, liquidity crunches, and other issues if they choose to use the bridge and Joltify chain.
 
 &#x20;****&#x20;
 
@@ -320,11 +328,9 @@ The investment protocol is rewarding every investment daily in a form of cryptoc
 
 (a) The Terms will continue to apply until terminated by either you or by DEEP THOUGHT VENTURES 42 INC as set out below.
 
-&#x20;
+
 
 (b) You may terminate the Terms at any time by ceasing all access to the Website or the Services.
-
-&#x20;
 
 &#x20;
 

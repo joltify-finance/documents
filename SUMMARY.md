@@ -35,6 +35,7 @@
 
 * [JOLTIFY Chain Techs](joltify-techs/joltify-chain-techs/README.md)
   * [Validator Election & Punishment](joltify-techs/joltify-chain-techs/validator-election-and-punishment.md)
+  * [JOLTIFY Chain Bridge](joltify-techs/joltify-chain-techs/joltify-chain-bridge.md)
 
 ## Term of Use
 
