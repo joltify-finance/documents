@@ -6,7 +6,7 @@ JOLTIFY, has a dynamic active validator set, which means that every week, the JO
 
 In the diagram below, we have an example of the JOLTIFY chain using nodes 1 to 8. For the round **t**, nodes 2, node 3, and node 4 are elected as the active validators, they will be the active nodes that participants in the block generation.
 
-Note: JOLTIFY in reality, will begin with 11 nodes, we go into detail with how this would work [here](broken-reference/).
+Note: JOLTIFY in reality, will begin with a couple of  nodes, we go into detail with how this would work [here](broken-reference/).
 
 A week later, Joltify will trigger the validator set to churn, all the candidates' voting power will be re-calculated, the node 2 will quit the validator set and node 5 is brought into the validator set. Node 2 will be in the candidate validator set and waiting for the incoming churn to join the active validator set once again.
 
