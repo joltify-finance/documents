@@ -40,3 +40,4 @@
 ## Term of Use
 
 * [WEBSITE, JOLTIFY PROTOCOL AND JOLTIFY CHAIN  TERMS AND CONDITIONS OF USE](term-of-use/website-joltify-protocol-and-joltify-chain-terms-and-conditions-of-use.md)
+* [PRIVACY POLICY](term-of-use/privacy-policy.md)
