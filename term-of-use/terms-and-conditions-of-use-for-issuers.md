@@ -48,10 +48,8 @@ The Website allows Users to list investment pools that have been approved by the
 
 (c) Joltify will rely on its third party KYC service provider to block investors residing in Australia and United States.
 
-### 6 Payment
 
-(a) The Issuer will pay zero fees (“Services Fee”) on the Joltify Chain to list an Investment Pool currently.
 
-### 7 No Guarantee
+### 6 No Guarantee
 
 (a) Joltify does not guarantee the success of fund-raising for any Investment Pool.
