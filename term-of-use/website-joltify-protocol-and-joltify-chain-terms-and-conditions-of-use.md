@@ -2,7 +2,7 @@
 
 1\. **About the Website**
 
-&#x20;Welcome to Joltify.io and its subdomains such as docs.joltify.io, app.joltify.io etc (the **'Website**'). The Website provides access to the Joltify chain (  ‘**Joltify**’, or '**Joltify Chain**', or ‘**Joltify Protocol**’), a decentralized peer-to-peer blockchain (the '**Services**'). For the avoidance of doubt, any references to Services also refers to the use of the Joltify Chain. The Services is provided through free, public, and open-source software blockchain,
+&#x20;Welcome to Joltify.io and its subdomains such as docs.joltify.io, app.joltify.io etc (the **'Website**'). The Website provides access to the Joltify chain (  ‘**Joltify**’, or '**Joltify Chain**', or ‘**Joltify Protocol**’), a decentralized peer-to-peer blockchain governed by the Joltify DAO consisting of JOLT token holders (the '**Services**'). For the avoidance of doubt, any references to Services also refers to the use of the Joltify Chain. The Services is provided through free, public, and open-source software blockchain,
 
 (a) The Website is operated by DEEP THOUGHT VENTURES 42 INC. (or ‘**We**’ or ‘**Us**’ or the '**Company**') Access to and use of the Website, or any of its associated Products or Services, is provided by DEEP THOUGHT VENTURES 42 INC. Please read these terms and conditions (the '**Terms**') carefully. By using, browsing and/or reading the Website, this signifies that you have read, understood and agree to be bound by the Terms. If you do not agree with the Terms, you must cease usage of the Website, or any of Services, immediately.
 
@@ -12,7 +12,7 @@
 
 **About Joltify protocol**
 
-&#x20;(c) Joltify is a decentralized peer-to-peer blockchain that aims to bridge real world assets to the decentralized finance world. Joltify is a lending platform for lending and borrowing cryptocurrency tokens, such as Atom,,BNB, etc. Joltify is designed to amalgamate liquidity in the crypto world to real world financial assets. Joltify will allow traditional asset managers to tokenise, by minting tokens on Joltify (“**Products**”) and offer real world asset investment opportunities to accredited investors via cryptocurrency and smart contracts or other blockchain technologies.
+&#x20;(c) Joltify is a decentralized peer-to-peer blockchain that aims to bridge real world assets to the decentralized finance world. Joltify is a lending platform for lending and borrowing cryptocurrency tokens, such as USDT,Atom,,BNB, etc. Joltify is designed to amalgamate liquidity in the crypto world to real world financial assets. Joltify will allow traditional asset managers to tokenise, by minting tokens on Joltify (“**Products**”) and offer real world asset investment opportunities to accredited investors via cryptocurrency and smart contracts or other blockchain technologies.
 
 (d)Blockchain is a rapidly changing technology. The crypto industry also involves rapidly changing business models. We and Joltify reserve the right to make changes to our technology and business models, including but not limited to developing new Products and Services for broad applications, or moving to other blockchains or chaning to other blockchain applications completely.
 
@@ -26,13 +26,13 @@ In the future, Joltify may choose to terminate the use of the Company's bridge i
 
 2\. **Acceptance of the Terms**
 
-&#x20;****&#x20;
+&#x20;
 
-(a) Your using of the Website and Services, including by connecting a wallet to the Website or Services, you are agreeing to the Terms as a user of the Website (‘User’).
+(a) By using of the Website and Services, including by connecting a wallet to the Website or Services, you are agreeing to the Terms as a user of the Website (‘User’).
 
 &#x20;
 
-(b)Your use of the Website and Services involves various risks, including, but not limited, to losses while digital assets are being supplied to Joltify pools and losses due to the fluctuation of prices of tokens in a trading pair or liquidity pool, including Impermanent Loss. Before using any pool on the Joltify blockchain, you should review the relevant documentation to make sure you understand how the Services work, and the pool you use on Joltify works. Additionally, just as you can access email protocols, such as SMTP, through multiple email clients, you can access pools on Joltify through several web or mobile interfaces. You are responsible for doing your own diligence on those interfaces to understand the fees and risks they present.
+(b)Your use of the Website and Services involves various risks, including, but not limited, to losses while digital assets are being supplied to Joltify pools and losses due to the fluctuation of prices of tokens in a trading pair or liquidity pool, including Impermanent Loss. Before using any pool on the Joltify blockchain, you should review the relevant documentation on the website to make sure you understand how the Services work, and the pool you use on Joltify works. Additionally, just as you can access email protocols, such as SMTP, through multiple email clients, you can access pools on Joltify through several web or mobile interfaces. You are responsible for doing your own diligence on those interfaces to understand the fees and risks they present.
 
 &#x20;
 
@@ -44,7 +44,9 @@ In the future, Joltify may choose to terminate the use of the Company's bridge i
 
 &#x20;
 
-&#x20;     (ii) you are a person barred from receiving the Services under the laws of British Virgin Islands or other countries including the country in which you are resident or from which you use the Services.
+&#x20;     (ii) you are a person barred from receiving the Services under the laws of British Virgin Islands or other countries including the country in which you are resident or from which you use the Services. or&#x20;
+
+&#x20;      (iii) you are an investor residing in Australia or United States.
 
 &#x20;
 
@@ -54,9 +56,9 @@ In the future, Joltify may choose to terminate the use of the Company's bridge i
 
 3\. **Registration to use the Services**
 
-&#x20;****&#x20;
+&#x20;
 
-(a) In order to access the Services either as accredited investor or real world asset originator, you must first register for an account through the Website (the '**Account**').
+(a) In order to access the Services either as accredited investor or real world asset investment pool issuer, you must first register for an account through the Website (the '**Account**').
 
 &#x20;
 
@@ -100,11 +102,11 @@ In the future, Joltify may choose to terminate the use of the Company's bridge i
 
 &#x20;
 
-&#x20;****&#x20;
+&#x20;
 
 4\. **Your obligations as a User**
 
-&#x20;****&#x20;
+&#x20;
 
 (a) As a User, you agree to comply with the following:
 
@@ -170,7 +172,7 @@ In the future, Joltify may choose to terminate the use of the Company's bridge i
 
 &#x20;
 
-(a) There are some fees when using the Services such as service fees, gas fees, bridges fees etc (“**Services Fee**”).  DEEP THOUGHT VENTURES 42 INC does not charge any fees for the Services and Website.  Service Fees are paid to the Joltify DAO community treasury, chain liquidity providers and validators.  DEEP THOUGHT VENTURES 42 INC may participate as validator and liquidity provider to earn fees like all the other decentralized participants.
+(a) There are fees associated with using the Services, such as service fees, gas fees, bridge fees, etc. ("Service Fees"). A portion of the interest rate fees paid to investors will be deducted as Service Fees, which will then be used to purchase JOLTs and burn these tokens. DEEP THOUGHT VENTURES 42 INC does not charge any fees for the Services and Website. The Service Fees are paid to the Joltify DAO community treasury, chain liquidity providers, and validators. DEEP THOUGHT VENTURES 42 INC may participate as a validator and liquidity provider to earn fees, just like all other decentralized participants.
 
 &#x20;
 
@@ -178,7 +180,7 @@ In the future, Joltify may choose to terminate the use of the Company's bridge i
 
 &#x20;
 
-(c) You agree and acknowledge that Joltify DAO or Joltify DAO can vary the Services Fee at any time.
+(c) You agree and acknowledge that DEEP THOUGHT VENTURES 42 INC or Joltify DAO  can vary the Services Fee at any time.
 
 &#x20;
 
@@ -186,15 +188,15 @@ In the future, Joltify may choose to terminate the use of the Company's bridge i
 
 6\. **Refund Policy**
 
-&#x20;****&#x20;
+&#x20;
 
-(a) Please note that Services Fee are non-refundable. DEEP THOUGHT VENTURE 42 INC does not receive any Services Fee for any transactions, the Services, or the Website.
+(a) Please note that any Services Fee is non-refundable. DEEP THOUGHT VENTURE 42 INC does not receive any Services Fee for any transactions, the Services, or the Website.
 
-&#x20;****&#x20;
+&#x20;
 
 7\. **Copyright and Intellectual Property**
 
-&#x20;****&#x20;
+&#x20;
 
 (a)The Website, the Services and all of the related Products of DEEP THOUGHT VENTURES 42 INC are subject to copyright. The material on the Website is protected by copyright under the laws of British Virgin Islands and through international treaties. Unless otherwise indicated, all rights (including copyright) in the Services and compilation of the Website (including but not limited to text, graphics, logos, button icons, video images, audio clips, Website code, scripts, design elements and interactive features) or the Services are owned or controlled for these purposes, and are reserved by DEEP THOUGHT VENTURES 42 INC or its contributors.
 
@@ -224,11 +226,11 @@ DEEP THOUGHT VENTURES 42 INC does not grant you any other rights whatsoever in r
 
 &#x20;
 
-&#x20;    (i) business name, trading name, domain name, trade mark, industrial design, patent, registered design or copyright, or
+&#x20;    (i) business name, trading name, domain name, trade mark, patent, registered design or copyright, or
 
 &#x20;
 
-&#x20;    (ii) a right to use or exploit a business name, trading name, domain name, trade mark or industrial design, or
+&#x20;    (ii) a right to use or exploit a business name, trading name, domain name or trade mark or or
 
 &#x20;
 
@@ -248,8 +250,6 @@ to you.
 
 &#x20;
 
-&#x20;
-
 (a) DEEP THOUGHT VENTURES 42 INC takes your privacy seriously and any information provided through your use of the Website and/or Services are subject to DEEP THOUGHT VENTURES 42 INC's Privacy Policy.
 
 &#x20;
@@ -264,7 +264,7 @@ to you.
 
 &#x20;     (i) all terms, guarantees, warranties, representations or conditions which are not expressly stated in the Terms are excluded; and
 
-&#x20;    (ii) DEEP THOUGHT VENTURES 42 INC will not be liable for any special, indirect or consequential loss or damage (unless such loss or damage is reasonably foreseeable resulting from our failure to meet an applicable Consumer Guarantee), loss of profit or opportunity, or damage to goodwill arising out of or in connection with the Services or these Terms (including as a result of not being able to use the Services or the late supply of the Services), whether at common law, under contract, tort (including negligence), in equity, pursuant to statute or otherwise.
+&#x20;    (ii) DEEP THOUGHT VENTURES 42 INC will not be liable for any special, indirect or consequential loss or damage (unless such loss or damage is reasonably foreseeable resulting from our failure to meet any applicable consumer guarantee), loss of profit or opportunity, or damage to goodwill arising out of or in connection with the Services or these Terms (including as a result of not being able to use the Services or the late supply of the Services), whether at common law, under contract, tort (including negligence), in equity, pursuant to statute or otherwise.
 
 &#x20;
 
@@ -296,13 +296,13 @@ Before investing in any of the investment pools, please check the issuer’s off
 
 &#x20;
 
-The investment protocol is rewarding every investment daily in a form of cryptocurrencty, including stablecoins or JOLT token, the Joltify protocol’s native token. Note that these are rewards from the protocol for providing liquidity to the ecosystem independent from the pool, it’s issuers, their asset originators, or any of our entity. There is no guarantee that an investor will receive those rewards.
+The investment protocol is rewarding every investment daily in a form of cryptocurrencty, including stablecoins or JOLT token, the Joltify protocol’s native token. Note that these are rewards from the protocol for providing liquidity to the ecosystem independent from the pool, its issuers, their asset originators, or any of our entity. There is no guarantee that an investor will receive those rewards.
 
 &#x20;
 
 10\. **Limitation of liability**
 
-&#x20;****&#x20;
+&#x20;
 
 (a) DEEP THOUGHT VENTURES 42 INC's total liability arising out of or in connection with the Services or these Terms, however arising, including under contract, tort (including negligence), in equity, under statute or otherwise, will not exceed the resupply of the Services to you to the extent that it does not involve replacing any digital or real world assets.
 
@@ -322,7 +322,7 @@ The investment protocol is rewarding every investment daily in a form of cryptoc
 
 11\. **Termination of Contract**
 
-&#x20;****&#x20;
+&#x20;
 
 (a) The Terms will continue to apply until terminated by either you or by DEEP THOUGHT VENTURES 42 INC as set out below.
 
@@ -356,7 +356,7 @@ The investment protocol is rewarding every investment daily in a form of cryptoc
 
 12\. **Indemnity**
 
-&#x20;****&#x20;
+&#x20;
 
 (a) You agree to indemnify DEEP THOUGHT VENTURES 42 INC, its affiliates, employees, agents, contributors, third party content providers and licensors from and against:
 
@@ -378,7 +378,7 @@ The investment protocol is rewarding every investment daily in a form of cryptoc
 
 13\. **Dispute Resolution**
 
-&#x20;****&#x20;
+&#x20;
 
 (a) **Compulsory:**
 
@@ -440,15 +440,15 @@ If 30 have elapsed after the start of a mediation of the Dispute and the Dispute
 
 14\. **Venue and Jurisdiction**
 
-&#x20;****&#x20;
+&#x20;
 
-(a) The Services offered by DEEP THOUGHT VENTURES 42 INC is intended to be viewed by residents outside of countries where the Services are illegal, such as Crimea, Donetsk, or Luhansk regions of Ukraine or the nations of Iran, North Korea, Cuba, Syria, Sudan, or if the User is otherwise subject to economic sanctions or listed as a Specially Designated National by the United States Office of Foreign Asset Control (OFAC). In the event of any dispute arising out of or in relation to the Website, you agree that the exclusive venue for resolving any dispute shall be in the courts of British Virgin Islands.
+(a) The Services offered by DEEP THOUGHT VENTURES 42 INC is intended to be viewed by residents outside of countries where the Services are illegal, such as Crimea, Donetsk, or Luhansk regions of Ukraine, Russia or the nations of Iran, North Korea, Cuba, Syria, Sudan, or if the User is otherwise subject to economic sanctions or listed as a Specially Designated National by the United States Office of Foreign Asset Control (OFAC). In the event of any dispute arising out of or in relation to the Website, you agree that the exclusive venue for resolving any dispute shall be in the courts of British Virgin Islands.
 
 &#x20;
 
 15\. **Governing Law**
 
-&#x20;****&#x20;
+&#x20;
 
 (a) The Terms are governed by the laws of British Virgin Islands. Any dispute, controversy, proceeding or claim of whatever nature arising out of or in any way relating to the Terms and the rights created hereby shall be governed, interpreted and construed by, under and pursuant to the laws of British Virgin Islands, without reference to conflict of law principles, notwithstanding mandatory rules. The validity of this governing law clause is not contested. The Terms shall be binding to the benefit of the parties hereto and their successors and assigns.
 
@@ -456,7 +456,7 @@ If 30 have elapsed after the start of a mediation of the Dispute and the Dispute
 
 16\. **Independent Legal Advice and Acknowledgement**
 
-&#x20;****&#x20;
+&#x20;
 
 (a) Both parties confirm and declare that the provisions of the Terms are fair and reasonable and both parties having taken the opportunity to obtain independent legal advice and declare the Terms are not against public policy on the grounds of inequality or bargaining power or general grounds of restraint of trade.
 
@@ -470,7 +470,7 @@ If 30 have elapsed after the start of a mediation of the Dispute and the Dispute
 
 17\. **Entire Agreement**
 
-&#x20;****&#x20;
+&#x20;
 
 (a) The Terms and any document incorporated by reference herein constitute the sole and entire agreement between the User and Us regarding the Website and supersede all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, regarding the Website and Services.
 
@@ -478,13 +478,13 @@ If 30 have elapsed after the start of a mediation of the Dispute and the Dispute
 
 18\. **Severance**
 
-&#x20;
+
 
 (a) If any part of these Terms is found to be void or unenforceable by a Court of competent jurisdiction, that part shall be severed and the rest of the Terms shall remain in force.
 
 19\. **Assignment**
 
-&#x20;****&#x20;
+
 
 (a) The Terms may be assigned without your prior consent to any DEEP THOUGHT VENTURES 42 INC associate, or to its successors in the interest of any business associated with the Services provided by us. You may not assign or transfer any rights or obligations under the Terms.
 
@@ -492,9 +492,9 @@ If 30 have elapsed after the start of a mediation of the Dispute and the Dispute
 
 20\. **Waiver of Injunctive or Other Equitable Relief.**
 
-&#x20;**** (a)USER IRREVOCABLY WAIVES ANY RIGHT USER MAY HAVE TO SERVE AS A REPRESENTATIVE OR AS A PRIVATE ATTORNEY GENERAL, OR TO PARTICIPATE AS A MEMBER OF A CLASS OF CLAIMANTS, IN ANY LAWSUIT, ARBITRATION OR OTHER PROCEEDING AGAINST ANY US AND ANY OF OUR ASSOCIATES ARISING FROM, RELATED TO OR CONNECTED WITH THIS AGREEMENT, OR ANY SERVICE OR PRODUCT.
+&#x20;(a)USER IRREVOCABLY WAIVES ANY RIGHT USER MAY HAVE TO SERVE AS A REPRESENTATIVE OR AS A PRIVATE ATTORNEY GENERAL, OR TO PARTICIPATE AS A MEMBER OF A CLASS OF CLAIMANTS, IN ANY LAWSUIT, ARBITRATION OR OTHER PROCEEDING AGAINST ANY US, JOLTIFY DAO AND ANY OF OUR ASSOCIATES ARISING FROM, RELATED TO OR CONNECTED WITH THIS AGREEMENT, OR ANY SERVICE OR PRODUCT.
 
-&#x20;****&#x20;
+&#x20;
 
 (b) TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU AGREE THAT YOU WILL NOT BE PERMITTED TO OBTAIN AN INJUNCTION OR OTHER EQUITABLE RELIEF OF ANY KIND, SUCH AS ANY COURT OR OTHER ACTION THAT MAY INTERFERE WITH OR PREVENT THE DEVELOPMENT OR EXPLOITATION OF THE SERVICES, OR ANY OTHER WEBSITE, APPLICATION, CONTENT, SUBMISSION, PRODUCT, SERVICE, OR INTELLECTUAL PROPERTY OWNED, LICENSED, USED OR CONTROLLED BY ANY DEEP THOUGHT VENTURES 42 INC  INDEMNIFIED PARTY.
 

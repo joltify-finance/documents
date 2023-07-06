@@ -12,6 +12,7 @@
 * [Utilization of JOLTIFY In Different lending Environments](real-world-asset-lending/user-cases.md)
 * [Project-Based Lending](real-world-asset-lending/project-based-lending/README.md)
   * [Use Case: A Solar Farm Financed By JOLTIFY](real-world-asset-lending/project-based-lending/a-solar-farm-to-get-finance-from-joltify.md)
+* [Investment Pool Processes and Rules](real-world-asset-lending/investment-pool-processes-and-rules.md)
 
 ***
 
@@ -39,5 +40,6 @@
 
 ## Term of Use
 
+* [TERMS AND CONDITIONS OF USE FOR ISSUERS](term-of-use/terms-and-conditions-of-use-for-issuers.md)
 * [WEBSITE, JOLTIFY PROTOCOL AND JOLTIFY CHAIN  TERMS AND CONDITIONS OF USE](term-of-use/website-joltify-protocol-and-joltify-chain-terms-and-conditions-of-use.md)
 * [PRIVACY POLICY](term-of-use/privacy-policy.md)
