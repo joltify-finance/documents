@@ -172,7 +172,7 @@ In the future, Joltify may choose to terminate the use of the Company's bridge i
 
 &#x20;
 
-(a) There are fees associated with using the Services, such as service fees, gas fees, bridge fees, etc. ("Service Fees"). A portion of the interest rate fees paid to investors will be deducted as Service Fees, which will then be used to purchase JOLTs and burn these tokens. DEEP THOUGHT VENTURES 42 INC does not charge any fees for the Services and Website. The Service Fees are paid to the Joltify DAO community treasury, chain liquidity providers, and validators. DEEP THOUGHT VENTURES 42 INC may participate as a validator and liquidity provider to earn fees, just like all other decentralized participants.
+(a) There are fees associated with using the Services, such as service fees, gas fees, bridge fees, etc. ("Service Fees"). A portion of the interest income or distribution returns payable to investors will be deducted as Service Fees payable to the Joltify DAO community treasury, chain liquidity providers, and validators, all or some of which will then be used to purchase JOLT tokens for burning. DEEP THOUGHT VENTURES 42 INC does not charge any fees for the Services and Website. DEEP THOUGHT VENTURES 42 INC may participate as a validator and liquidity provider to earn fees, just like all other decentralized participants.
 
 &#x20;
 
