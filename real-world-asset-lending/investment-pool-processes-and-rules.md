@@ -2,8 +2,6 @@
 
 
 
-<figure><img src="../.gitbook/assets/SPV_demo_HighLevelBusinessModule.jpg" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/SPV_demo_LoanOrigination.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/SPV_demo_LoanFunding.jpg" alt=""><figcaption></figcaption></figure>
