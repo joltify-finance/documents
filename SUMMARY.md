@@ -38,6 +38,12 @@
   * [Validator Election & Punishment](joltify-techs/joltify-chain-techs/validator-election-and-punishment.md)
   * [JOLTIFY Chain Bridge](joltify-techs/joltify-chain-techs/joltify-chain-bridge.md)
 
+## Joltify Airdrop
+* [JOLTIFY Airdrop Program](airdrop-program/airdrop-basis.md)
+  * [Startup airdrop](airdrop-program/activity-1-start-up-airdrop.md)
+  * [Weekly airdrop](airdrop-program/activity-2-weekly-airdrop.md)
+  * [trading competition airdrop](airdrop-program/activity-3-trading-competition.md)
+
 ## Term of Use
 
 * [TERMS AND CONDITIONS OF USE FOR ISSUERS](term-of-use/terms-and-conditions-of-use-for-issuers.md)
