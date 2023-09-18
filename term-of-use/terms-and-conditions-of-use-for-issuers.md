@@ -20,7 +20,7 @@ The Website allows Users to list investment pools that have been approved by the
 
 (b) The Documentation must accurately reflect the processes and rules documented on the Website (see [Investment Pool Processes and Rules](terms-and-conditions-of-use-for-issuers.md#3-investment-pool-documentation)).
 
-(c) Documentation must be approved by the Joltify DAO before being listed on the Joltify Chain for potential accredited investors to review and sign.
+(c) Documentation must be approved by the Joltify DAO before being listed on the Joltify Chain for potential accredited investors to review and sign. Issuer must use documentation substantially the same as approved for signing by accredited investors.
 
 (d) Issuer must use any Documentation template, if any, that has been provided by Joltify DAO or the Company.
 
@@ -48,8 +48,10 @@ The Website allows Users to list investment pools that have been approved by the
 
 (c) Joltify will rely on its third party KYC service provider to block investors residing in Australia and United States.
 
-
-
 ### 6 No Guarantee
 
 (a) Joltify does not guarantee the success of fund-raising for any Investment Pool.
+
+### 7 Breach by Issuer
+
+(a) If Issuer breaches the Issuer Terms, Joltify DAO may delist or suspend the Issuer's funding proposal, including freezing its Investment Pool Wallet if the pool as not been drawn down, or taking any other actions to safeguard any investor funds.
