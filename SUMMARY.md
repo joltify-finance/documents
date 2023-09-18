@@ -40,9 +40,9 @@
 
 ## Joltify Airdrop
 * [JOLTIFY Airdrop Program](airdrop-program/airdrop-basis.md)
-  * [Startup airdrop](airdrop-program/activity-1-start-up-airdrop.md)
-  * [Weekly airdrop](airdrop-program/activity-2-weekly-airdrop.md)
-  * [trading competition airdrop](airdrop-program/activity-3-trading-competition.md)
+  * [Startup Airdrop](airdrop-program/activity-1-start-up-airdrop.md)
+  * [Weekly Airdrop](airdrop-program/activity-2-weekly-airdrop.md)
+  * [Trading Competition Airdrop](airdrop-program/activity-3-trading-competition.md)
 
 ## Term of Use
 
