@@ -264,7 +264,7 @@ By using Joltify, you understand and agree that DEEP THOUGHT VENTURES 42 INC and
 
 The Issuer holds the responsibility of ensuring that the documents submitted for approval by Joltify DAO are identical to the ones provided to investors. This is done to prevent any misleading information or inconsistencies between the approved documents and those presented to potential investors.
 
-As a decentralized autonomous organization, Joltify DAO lacks the means and obligation to independently verify the accuracy and consistency of the documents. The DAO's involvement is based solely on good intentions and pre-screening of Real World Asset (RWA) projects on the Joltify chain. However, please note that Joltify DAO cannot guarantee anything and bears no responsibility in this regard.
+As a decentralized autonomous organization, Joltify DAO lacks the means to independently verify the accuracy and consistency of the investment documents. As such, you acknowledge that Joltify DAO is not responsible for the content nor accuracy of the investment documents, and bears no liability for any loss caused by any deficiency in the documents. The DAO's involvement is based solely on good intentions and pre-screening of Real World Asset (RWA) projects on the Joltify chain. However, please note that Joltify DAO cannot guarantee anything and bears no responsibility in regards of the investments or related documents.
 
 (b) Subject to this clause, and to the extent permitted by law:
 
