@@ -2,7 +2,7 @@
 
 * [Introduction To JOLTIFY](README.md)
 
-## Real World Asset Lending&#x20;
+## Real World Asset Lending
 
 * [Background](real-world-asset-lending/background.md)
 * [Business Model In JOLTIFY](real-world-asset-lending/business-model-in-joltify/README.md)
@@ -38,8 +38,12 @@
   * [Validator Election & Punishment](joltify-techs/joltify-chain-techs/validator-election-and-punishment.md)
   * [JOLTIFY Chain Bridge](joltify-techs/joltify-chain-techs/joltify-chain-bridge.md)
 
+## Joltify Testnet
+
+* [Joltify Testnet Guideline](joltify-testnet/joltify-testnet-guideline.md)
+
 ## Term of Use
 
 * [TERMS AND CONDITIONS OF USE FOR ISSUERS](term-of-use/terms-and-conditions-of-use-for-issuers.md)
-* [WEBSITE, JOLTIFY PROTOCOL AND JOLTIFY CHAIN  TERMS AND CONDITIONS OF USE](term-of-use/website-joltify-protocol-and-joltify-chain-terms-and-conditions-of-use.md)
+* [WEBSITE, JOLTIFY PROTOCOL AND JOLTIFY CHAIN TERMS AND CONDITIONS OF USE](term-of-use/website-joltify-protocol-and-joltify-chain-terms-and-conditions-of-use.md)
 * [PRIVACY POLICY](term-of-use/privacy-policy.md)
