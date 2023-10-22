@@ -120,12 +120,12 @@ Testnet Link: [https://testnet2.joltify.io/rwa](https://testnet2.joltify.io/rwa)
 
 We will distribute a portion of the mainnet supply for airdrops after the mainnet is launched. The distribution ratio for each role is as follows:
 
-* "**Vanguard Jolter**" ID group: of **15%** of the airdrops.
-* "**Luminary Jolter**" ID group: of **10%** of the airdrops.
-* "**Early Adopter**" ID group: of **7%** of the airdrops.
-* "**Ambassador**" ID group: of **12%** of the airdrops.
-* "**Testnet Contributor**" ID group: of **4%** of the airdrops.
-* **Galxe**: of **12%** of the airdrops.
-* **All Testnet Members**: of **40%** of the airdrops.
+* "**Vanguard Jolter**" ID group: **15%** of the airdrops.
+* "**Luminary Jolter**" ID group: **10%** of the airdrops.
+* "**Early Adopter**" ID group: **7%** of the airdrops.
+* "**Ambassador**" ID group: **12%** of the airdrops.
+* "**Testnet Contributor**" ID group: **4%** of the airdrops.
+* **Galxe**: **12%** of the airdrops.
+* **All Testnet Members**: **40%** of the airdrops.
 
 > &#x20;_⚠️ **Note**: “Testnet Members” includes “Vanguard Jolter”, “Luminary Jolter”, "Early Adopter", “Ambassador”, "Testnet Contributor", and Galxe Users, even if they are not appealing to the 6 roles, they might still earn Joltify Testnet rewards for their test interactions._
