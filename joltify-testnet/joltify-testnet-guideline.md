@@ -19,7 +19,8 @@ Users are required to obtain their **jolt-address** to participate in the testne
 3. **Visit** the Joltify Testnet and **Approve** the connection in the Keplr Wallet.
 4. **Enable** the visibility of the Joltify Testnet network in the Keplr Wallet.
    1. Go to "Settings" -> "General" -> "Manage Chain Visibility".
-   2. Search "Joltify Testnet network" by typing "jolt".
+   2. Search "Joltify Testnet network" by typing `JoltDev3`.
+      1. The Joltify Testnet ChainID is `JoltDev3`.
    3. Tick the box to enable the visibility of the Joltify Testnet network on Keplr.
 5. **Copy** your _**jolt-address**_.
    1. Open the Keplr Wallet extension.
@@ -52,7 +53,7 @@ Pools testnet Link: [https://testnet2.joltify.io/swap/pools](https://testnet2.jo
 
 * **Swap**: allows a user to swap their digital assets.
 * **Add Liquidity**: allows a user to add liquidity to a selected liquidity pool.
-* **Remove Liquidity**: allows a user to withdraw liquidity from a selected liquidity  pool.
+* **Remove Liquidity**: allows a user to withdraw liquidity from a selected liquidity pool.
 
 {% hint style="info" %}
 You can watch the [demonstration video](https://www.youtube.com/watch?v=FN5dSLrBLJI\&ab\_channel=SaltyCrypto) to perform the above operations.
@@ -79,7 +80,7 @@ Testnet Link: [https://testnet2.joltify.io/auction-liquidate](https://testnet2.j
 
 * **Liquidate**: allows a user to bid on a liquidatable collateral.
 
-> You can find additional details [here](../digital-asset-lending/liquidation.md).
+> You can find additional details [here](../digital-asset-lending/liquidation.md#how-liquidation-works).
 
 {% hint style="info" %}
 (Coming soon) You can watch the demonstration video to perform the above operations.
@@ -91,7 +92,7 @@ Testnet Link: [https://testnet2.joltify.io/auction-give-back](https://testnet2.j
 
 * **Bid**: allows a user to bid on the asset using JOLT tokens.
 
-> You can find additional details [here](broken-reference).
+> You can find additional details [here](../jolt-buy-back-and-burn/jolt-buy-back-and-burn.md#why-jolt-buy-back-and-burn).
 
 {% hint style="info" %}
 (Coming soon) You can watch the demonstration video to perform the above operation.
@@ -108,7 +109,7 @@ Testnet Link: [https://testnet2.joltify.io/rwa](https://testnet2.joltify.io/rwa)
 * **Withdrawal Request**: allows a user to send a request to withdraw their locked deposits.
 * **Claim**: allows a user to claim their interests.
 
-> You can find additional details [here](joltify-testnet-guideline.md#rwa).
+> You can find additional details [here](../real-world-asset-lending/background.md).
 
 {% hint style="info" %}
 (Coming soon) You can watch the demonstration video to perform the above operations.
@@ -128,4 +129,8 @@ We will distribute a portion of the mainnet supply for airdrops after the mainne
 * **Galxe**: **12%** of the airdrops.
 * **All Testnet Members**: **40%** of the airdrops.
 
-> &#x20;_⚠️ **Note**: “Testnet Members” includes “Vanguard Jolter”, “Luminary Jolter”, "Early Adopter", “Ambassador”, "Testnet Contributor", and Galxe Users, even if they are not appealing to the 6 roles, they might still earn Joltify Testnet rewards for their test interactions._
+> _⚠️ **Note**: “Testnet Members” includes “Vanguard Jolter”, “Luminary Jolter”, "Early Adopter", “Ambassador”, "Testnet Contributor", and Galxe Users, even if they are not appealing to the 6 roles, they might still earn Joltify Testnet rewards for their test interactions._
+
+> Airdrop Rule Flexibility Clause: Adapting to Changing Circumstances.
+>
+> _We reserve the right to modify or adjust the rules pertaining to our airdrop program at our discretion, to accommodate changing circumstances or unforeseen situations. Any changes made will be transparent, ensuring clarity and fairness to all participants._
