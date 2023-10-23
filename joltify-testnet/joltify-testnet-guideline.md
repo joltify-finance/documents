@@ -20,7 +20,7 @@ Users are required to obtain their **jolt-address** to participate in the testne
 4. **Enable** the visibility of the Joltify Testnet network in the Keplr Wallet.
    1. Go to "Settings" -> "General" -> "Manage Chain Visibility".
    2. Search "Joltify Testnet network" by typing `JoltDev3`.
-      1. The Joltify Testnet ChainID is `JoltDev3` .
+      1. The Joltify Testnet ChainID is `JoltDev3`.
    3. Tick the box to enable the visibility of the Joltify Testnet network on Keplr.
 5. **Copy** your _**jolt-address**_.
    1. Open the Keplr Wallet extension.
@@ -130,3 +130,7 @@ We will distribute a portion of the mainnet supply for airdrops after the mainne
 * **All Testnet Members**: **40%** of the airdrops.
 
 > _⚠️ **Note**: “Testnet Members” includes “Vanguard Jolter”, “Luminary Jolter”, "Early Adopter", “Ambassador”, "Testnet Contributor", and Galxe Users, even if they are not appealing to the 6 roles, they might still earn Joltify Testnet rewards for their test interactions._
+
+> Airdrop Rule Flexibility Clause: Adapting to Changing Circumstances.
+>
+> _We reserve the right to modify or adjust the rules pertaining to our airdrop program at our discretion, to accommodate changing circumstances or unforeseen situations. Any changes made will be transparent, ensuring clarity and fairness to all participants._
