@@ -41,6 +41,7 @@
 ## Joltify Testnet
 
 * [Joltify Testnet Guideline](joltify-testnet/joltify-testnet-guideline.md)
+* [Airdrop Reward Distribution](joltify-testnet/airdrop-reward-distribution.md)
 
 ## Term of Use
 
