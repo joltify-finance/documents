@@ -42,6 +42,11 @@
 
 * [Joltify Testnet Guideline](joltify-testnet/joltify-testnet-guideline.md)
 * [Airdrop Reward Distribution](joltify-testnet/airdrop-reward-distribution.md)
+* [RWA Guideline](joltify-testnet/rwa-guideline/README.md)
+  * [Role Introduction](joltify-testnet/rwa-guideline/role-introduction.md)
+  * [Investor Guideline](joltify-testnet/rwa-guideline/investor-guideline.md)
+  * [Notation Explanation](joltify-testnet/rwa-guideline/notation-explanation.md)
+  * [Investing Timeline](joltify-testnet/rwa-guideline/investing-timeline.md)
 
 ## Term of Use
 
