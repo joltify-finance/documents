@@ -16,13 +16,14 @@ Airdrops will be distributed after the mainnet launch. The distribution ratio fo
 
 ***
 
-## How to get different roles
+## How to Get Different Roles
 
 ### Galxe
 
 * Requirements
   * Points: Reach 1200 points or above on Galxe.
 * Notes
+  * Link: [https://galxe.com/joltify](https://galxe.com/joltify)
   * Upcoming activities: To be announced.
 
 ### Testnet Contributor
@@ -36,7 +37,7 @@ Airdrops will be distributed after the mainnet launch. The distribution ratio fo
 * Requirements
   * Complete the specified task on Galxe: [https://galxe.com/joltify/campaign/GCctEUMgQa](https://galxe.com/joltify/campaign/GCctEUMgQa).
 * Notes
-  * Limited quantities available on a first-come, first-served basis.
+  * Limited quantities available on a first-come first-served basis.
 
 ### Luminary Jolter
 
