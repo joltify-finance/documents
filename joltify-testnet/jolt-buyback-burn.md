@@ -22,7 +22,7 @@ Please note that if the remaining bidding duration stays above 30 minutes, the a
 
 ## Bidding Amount
 
-1. The first bid for an auction has be more than **15 JOLT**.
+1. The first bid for an auction has be more than 15 JOLT.
 2. After the first bid, users need to increase the bid by at least 5% more JOLT compared to the previous bid.
 3. Certainly, the user has the freedom to bid on the auction with any amount of JOLT they desire, enabling them to effectively compete with other bidders.
 
