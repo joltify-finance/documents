@@ -40,13 +40,15 @@
 
 ## Joltify Testnet
 
-* [Joltify Testnet Guideline](joltify-testnet/joltify-testnet-guideline.md)
+* [Get Ready](joltify-testnet/get-ready.md)
+* [Swap & Digital Lending](joltify-testnet/joltify-testnet-guideline.md)
+* [JOLT Buyback-Burn](joltify-testnet/jolt-buyback-burn.md)
+* [RWA Lending](joltify-testnet/rwa-lending/README.md)
+  * [Role Introduction](joltify-testnet/rwa-lending/role-introduction.md)
+  * [Investor Guideline](joltify-testnet/rwa-lending/investor-guideline.md)
+  * [Notation Explanation](joltify-testnet/rwa-lending/notation-explanation.md)
+  * [Investing Timeline](joltify-testnet/rwa-lending/investing-timeline.md)
 * [Airdrop Reward Distribution](joltify-testnet/airdrop-reward-distribution.md)
-* [RWA Guideline](joltify-testnet/rwa-guideline/README.md)
-  * [Role Introduction](joltify-testnet/rwa-guideline/role-introduction.md)
-  * [Investor Guideline](joltify-testnet/rwa-guideline/investor-guideline.md)
-  * [Notation Explanation](joltify-testnet/rwa-guideline/notation-explanation.md)
-  * [Investing Timeline](joltify-testnet/rwa-guideline/investing-timeline.md)
 
 ## Term of Use
 

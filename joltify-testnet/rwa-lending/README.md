@@ -1,4 +1,4 @@
-# RWA Guideline
+# RWA Lending
 
 ## Outline
 
@@ -16,8 +16,8 @@
   * [The 'Personal Investment' Page](notation-explanation.md#the-personal-investment-page)
 * [Investing Timeline](investing-timeline.md)
   * [Stages](investing-timeline.md#investing-stages)
-  * [The "Pool Preparing" Stage](investing-timeline.md#pool-preparing-stage)
-  * [The "Investing" Stage](investing-timeline.md#investing-stage)
-  * [The "Borrowing" Stag](investing-timeline.md#borrowing-stage)
-  * [The "Interest Accumulating" Stage](investing-timeline.md#interests-accumulating-stage)
-  * [The "Pool Closing" Stage](investing-timeline.md#pool-closing-stage)
+  * [The "Pool Preparing" Stage](investing-timeline.md#the-pool-preparing-stage)
+  * [The "Investing" Stage](investing-timeline.md#the-investing-stage)
+  * [The "Borrowing" Stag](investing-timeline.md#the-borrowing-stage)
+  * [The "Interest Accumulating" Stage](investing-timeline.md#the-interests-accumulating-stage)
+  * [The "Pool Closing" Stage](investing-timeline.md#the-pool-closing-stage)

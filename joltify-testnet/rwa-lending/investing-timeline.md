@@ -1,6 +1,6 @@
 # Investing Timeline
 
-## Investing Stages
+## Stages
 
 <figure><img src="../../.gitbook/assets/timeline (1).jpg" alt=""><figcaption><p>Figure 1: The operation timeline including the operations in five stages.</p></figcaption></figure>
 
