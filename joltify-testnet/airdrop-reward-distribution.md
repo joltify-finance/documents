@@ -42,20 +42,20 @@ Airdrops will be distributed after the mainnet launch. The distribution ratio fo
 ### Luminary Jolter
 
 * Requirements
-  * Community level: Reach level 80.
-  * Invite tracker: Have 15 successful invites.
+  * Community level: Reach level 35.
+  * Invite tracker: Have 12 successful invites.
 
 ### Vanguard Jolter
 
 * Requirements
   * Attain the Luminary Jolter role.
-  * Community level: Reach level 150.
-  * Invite tracker: Have 35 successful invites.
+  * Community level: Reach level 50.
+  * Invite tracker: Have 25 successful invites.
 
 ### Ambassador
 
 * Requirements
-  * Invite tracker: Have 50 successful invites.
+  * Invite tracker: Have 80 successful invites.
   * Open a ticket to apply for the Ambassador role. Ambassador applicants are required to provide a self-introduction in their ticket submission.
 * Notes
   * Priority given to those who can communicate in languages other than English.
