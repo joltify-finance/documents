@@ -55,7 +55,7 @@ Airdrops will be distributed after the mainnet launch. The distribution ratio fo
 ### Ambassador
 
 * Requirements
-  * Invite tracker: Have 50 successful invites.
+  * Invite tracker: Have 80 successful invites.
   * Open a ticket to apply for the Ambassador role. Ambassador applicants are required to provide a self-introduction in their ticket submission.
 * Notes
   * Priority given to those who can communicate in languages other than English.
