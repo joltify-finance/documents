@@ -106,14 +106,15 @@ When users commit assets and the SPV borrows them, these users are granted an NF
    1. At this stage, users have the option to transfer ownership of their invested assets. The processing varies based on three distinct scenarios:
       1. **Case 1**: If no assets are committed during the period, any ownership transfer requests will be left unprocessed and the assets will remain "Invested".
       2. **Case 2**: If the total committed assets are 100 USDC (committed) and 20 USDC (invested) is requested the ownership transfer, 20 USDC (out of 20 invested USDC) becomes withdrawable and 80 USDC (out of 100 committed USDC) remains "Committed".
-      3. **Case 3**:  If the total committed assets are 100 USDC and 150 USDC is requested the ownership transfer, 100 USDT (out of 100 invested USDC) becomes "Invested" and 50 USDC (out of 150 invested USDC) remains "Invested". **Notably**, in this case, new NFTs will be generated for users requesting ownership transfer, as their invested assets haven't been completely transferred.
+      3. **Case 3**: If the total committed assets are 100 USDC and 150 USDC is requested the ownership transfer, 100 USDT (out of 100 invested USDC) becomes "Invested" and 50 USDC (out of 150 invested USDC) remains "Invested". **Notably**, in this case, new NFTs will be generated for users requesting ownership transfer, as their invested assets haven't been completely transferred.
    2. Please be aware that once a user initiates an ownership transfer request, any of their committed assets will be excluded from the ownership transfer process.
 3. **Withdraw**
    1. At this stage, users have the option to withdraw either their committed assets or assets redeemed through ownership transfer requests.
 4. **Interest Claim**
    1. Users can claim interest that has been accumulated from previously completed payment rounds, based on their invested assets.
 5. **Withdrawal Proposal Submission**
-   1. Upon concluding this stage, users have the option to submit a withdrawal request to retrieve their invested assets.
+   1. Upon concluding this stage, users have the option to submit a withdrawal request to retrieve their invested assets.\
+      The SPV must repay investors' principal/invested assets according to the investor's `withdrawal proposals`. The SPV reserves the right to roll over the investment to the next cycle if no withdrawal proposal is received.
 
 ***
 
@@ -126,7 +127,7 @@ When users commit assets and the SPV borrows them, these users are granted an NF
 2. **Principal Repayment**
    1. The SPV must repay borrowed assets as per users' withdrawal requests.
 3. **Pool Closing**
-   1. The SPV may close the pool only after settling all accrued interests and returning the borrowed assets.
+   1. The SPV can close the pool if and only if all accrued interests  and borrowed assets are settled and returned.
 
 ### >>> Operations of Investors
 
