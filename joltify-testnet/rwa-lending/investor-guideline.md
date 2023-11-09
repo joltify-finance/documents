@@ -115,3 +115,7 @@ Once the user requests an ownership transfer, his/her committed assets will not 
 The `SUBMIT WITHDRAWAL PROPOSAL` button is accessible only during specific time windows.
 
 By sending the `SUBMIT WITHDRAWAL PROPOSAL` transaction, the SPV will then return users' invested assets before reaching the loan's tenure.
+
+{% hint style="info" %}
+Please note that if users do not submit their withdrawal requests within the given time window, the SPV reserves the right to roll over investors' deposit into next investment cycle.
+{% endhint %}
