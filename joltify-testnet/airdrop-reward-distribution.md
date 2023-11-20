@@ -4,27 +4,27 @@
 
 Airdrops will be distributed after the mainnet launch. The distribution ratio for each role is as follows:
 
-* **Galxe**: **12%** of the airdrops.
-* "**Testnet Contributor**" ID group: **4%** of the airdrops.
-* "**Early Adopter**" ID group: **7%** of the airdrops.
+* "**Galxe/Zealy**" ID group: **12%** of the airdrops.
+* "**Testnet Contributor**" ID group: **8%** of the airdrops.
+* "**Early Adopter**" ID group: **8%** of the airdrops.
 * "**Luminary Jolter**" ID group: **10%** of the airdrops.
 * "**Vanguard Jolter**" ID group: **15%** of the airdrops.
-* "**Ambassador**" ID group: **12%** of the airdrops.
+* "**Ambassador**" ID group: **7%** of the airdrops.
 * **All Testnet Members**: **40%** of the airdrops.
 
-> _⚠️ **Note**: “Testnet Members” includes “Vanguard Jolter”, “Luminary Jolter”, "Early Adopter", “Ambassador”, "Testnet Contributor", and Galxe Users, even if they are not appealing to the 6 roles, they might still earn Joltify Testnet rewards for their test interactions._
+> _⚠️ **Note**: “Testnet Members” includes “Vanguard Jolter”, “Luminary Jolter”, "Early Adopter", “Ambassador”, "Testnet Contributor", and Galxe/Zealy Users, even if they are not appealing to the 6 roles, they might still earn Joltify Testnet rewards for their test interactions._
 
 ***
 
 ## How to Get Different Roles
 
-### Galxe
+### Galxe/Zealy
 
 * Requirements
-  * Points: Reach 1200 points or above on Galxe.
+  * Reach accumulatively 1200 points or above on Galxe and Zealy.
 * Notes
-  * Link: [https://galxe.com/joltify](https://galxe.com/joltify)
-  * Upcoming activities: To be announced.
+  * Link (Galxe): [https://galxe.com/joltify](https://galxe.com/joltify)
+  * Link (Zealy): [https://zealy.io/c/joltify/questboard](https://zealy.io/c/joltify/questboard)
 
 ### Testnet Contributor
 
@@ -35,22 +35,22 @@ Airdrops will be distributed after the mainnet launch. The distribution ratio fo
 ### Early Adopter
 
 * Requirements
-  * Complete the specified task on Galxe: [https://galxe.com/joltify/campaign/GCctEUMgQa](https://galxe.com/joltify/campaign/GCctEUMgQa).
+  * Complete the specified task on Galxe: [https://galxe.com/joltify/campaign/GCPSKtUDsi](https://galxe.com/joltify/campaign/GCPSKtUDsi).
 * Notes
   * Limited quantities available on a first-come first-served basis.
 
 ### Luminary Jolter
 
 * Requirements
-  * Community level: Reach level 35.
-  * Invite tracker: Have 12 successful invites.
+  * Community level: Reach level 32.
+  * Invite tracker: Have 5 successful invites.
 
 ### Vanguard Jolter
 
 * Requirements
   * Attain the Luminary Jolter role.
-  * Community level: Reach level 50.
-  * Invite tracker: Have 25 successful invites.
+  * Community level: Reach level 40.
+  * Invite tracker: Have 15 successful invites.
 
 ### Ambassador
 
