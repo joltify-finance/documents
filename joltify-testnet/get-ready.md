@@ -43,9 +43,9 @@ To facilitate the testing of the bridging function offered by the Joltify testne
 2. **Set Up Your Wallet**: Once installed, you can either create a new wallet or import existing wallets into MetaMask.
 3. **Add the Ethereum Mock Chain**: Finally, add an Ethereum mock chain to your MetaMask wallet for testing and development purposes.
    1. **Click** the network button located at the top-left corner of the interface and **Select** the "Add network" button to initiate the process of adding a customised network.\
-      ![](<../.gitbook/assets/image (5).png>)![](<../.gitbook/assets/image (1) (1).png>)
+      ![](<../.gitbook/assets/metamask_1.png>)![](<../.gitbook/assets/metamask_2.png>)
    2. **Click** "Add a network maunually" and **Complete** the setup by filling in the necessary configuration details for the new chain.\
-      ![](<../.gitbook/assets/image (15).png>)![](<../.gitbook/assets/image (16).png>)
+      ![](<../.gitbook/assets/metamask_3.png>)![](<../.gitbook/assets/metamask_4.png>)
       1. (customisable) **Network name**: ETH Mock Chain
       2. **New RPC URL**: [http://65.109.48.184:8545](http://65.109.48.184:8545)
       3. **Chain ID**: 1337
@@ -57,8 +57,8 @@ To facilitate the testing of the bridging function offered by the Joltify testne
        1. JOLT-USDT: 0xCB4471f0FBE3d66ad0b9A629606C6509A80612d6
        2. JOLT-USDC: 0x7CC0DD0ec9AC0F68576281Dd2bA69a7b6c2B243e
 
-    ![](<../.gitbook/assets/image (17).png>)    ![](<../.gitbook/assets/image (11).png>)
+    ![](<../.gitbook/assets/metamask_5.png>)    ![](<../.gitbook/assets/metamask_6.png>)
 
 Upon completing the setup, you will be able to view your token balance displayed in your MetaMask wallet as shown below:
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/metamask_7.png" alt=""><figcaption></figcaption></figure>

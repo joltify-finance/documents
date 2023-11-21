@@ -2,7 +2,7 @@
 
 ## Stages
 
-<figure><img src="../../.gitbook/assets/timeline (1).jpg" alt=""><figcaption><p>Figure 1: The operation timeline including the operations in five stages.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rwa_timeline.jpg" alt=""><figcaption><p>Figure 1: The operation timeline including the operations in five stages.</p></figcaption></figure>
 
 As illustrated in Figure 1, the investment process for the RWA project can be delineated into five distinct stages:
 

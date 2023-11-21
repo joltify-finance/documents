@@ -22,9 +22,9 @@ The ”RWA“ page showcases basic details of all listed RWA projects. Specifica
 
 ***
 
-## &#x20;The ”Project“ Page
+## The ”Project“ Page
 
-<figure><img src="../../.gitbook/assets/rwa2 (1).png" alt=""><figcaption><p>Figure 2: The Project page shows the details of created pools in a RWA project.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rwa2.png" alt=""><figcaption><p>Figure 2: The Project page shows the details of created pools in a RWA project.</p></figcaption></figure>
 
 The ”Project“ page offers both a general overview and a deeper dive into the specifics of the chosen project, broken down into two primary sections:
 
@@ -49,7 +49,7 @@ Within this project, there are two pools: the `-junior` pool and the `-senior` p
 
 ## The "Personal Investment" Page
 
-<figure><img src="../../.gitbook/assets/rwa3 (4).jpg" alt=""><figcaption><p>Figure 3: The "Personal Investment" page shows the detailed investing information for the connected account.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rwa_personal_page.png" alt=""><figcaption><p>Figure 3: The "Personal Investment" page shows the detailed investing information for the connected account.</p></figcaption></figure>
 
 As shown on the "Personal Investment" page, personal information and operational buttons are organised into five distinct sections. These sections are:
 
@@ -74,7 +74,7 @@ As shown on the "Personal Investment" page, personal information and operational
 
 ### My Investment Summary
 
-* **Total Amount Invested**:  represents the total volume of assets that the SPV has borrowed from your investments.
+* **Total Amount Invested**: represents the total volume of assets that the SPV has borrowed from your investments.
 * **Linked NFTs**: displays the NFTs users have received in relation to their investments, serving as a digital representation or certificate of users' investment activities.
 
 ### Transfer Window

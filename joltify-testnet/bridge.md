@@ -22,7 +22,7 @@ To test the bridging function on the Joltify testnet, visit the "assets" page us
 
 On the page, users can **Deposit** assets from EVM-compatible chains to the Joltify chain and **Withdraw** assets from the Joltify chain to other EVM-compatible chains.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Figure 1. Assets</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/bridge_page.png" alt=""><figcaption><p>Figure 1. Assets</p></figcaption></figure>
 
 Figure 1 displays a list of assets on the page, ranked according to their value as held by users. It's important to understand each parameter presented on this page:
 
@@ -44,7 +44,7 @@ When you click the "**Deposit**" button, a new window (Figure 2) appears with th
 * **Destination Address**: Displays the receiving address on the Joltify chain, which is auto-filled if the Keplr wallet is connected to the appropriate network.
 * **Memo**: An optional field for users to add a message to their "Deposit" transaction.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Figure 2. Deposit</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/bridge_deposit.png" alt=""><figcaption><p>Figure 2. Deposit</p></figcaption></figure>
 
 ### Withdraw
 
@@ -55,4 +55,4 @@ When you click the "**Withdraw**" button, a new window (Figure 2) appears with t
 * **Destination Address**: Displays the recipient's address on the EVM chains, initially sourced from the MetaMask wallet but can be modified to any EVM address.
 * **Memo**: An optional field for users to include a message with their "Deposit" transaction.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Figure 3. Withdraw</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/bridge_withdraw_page.png" alt=""><figcaption><p>Figure 3. Withdraw</p></figcaption></figure>
