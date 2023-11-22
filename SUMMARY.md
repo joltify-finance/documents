@@ -48,6 +48,7 @@
   * [Investor Guideline](joltify-testnet/rwa-lending/investor-guideline.md)
   * [Notation Explanation](joltify-testnet/rwa-lending/notation-explanation.md)
   * [Investing Timeline](joltify-testnet/rwa-lending/investing-timeline.md)
+* [Cross-Chain Bridge](joltify-testnet/bridge.md)
 * [Airdrop Reward Distribution](joltify-testnet/airdrop-reward-distribution.md)
 
 ## Term of Use

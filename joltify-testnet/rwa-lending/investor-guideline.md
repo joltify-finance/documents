@@ -4,7 +4,7 @@
 
 To begin your investment journey, follow the steps below to select a desired pool created by the SPV:
 
-<figure><img src="../../.gitbook/assets/rwa0 (1).png" alt=""><figcaption><p>Figure 1: Pool selection.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rwa0.png" alt=""><figcaption><p>Figure 1: Pool selection.</p></figcaption></figure>
 
 1. **Accessing the RWA Page:** Click the "Investments" button to directly access the RWA page.
 2. **Choosing a Project:** On the RWA page, click your desired project to enter its individual "Project" page.
@@ -12,7 +12,7 @@ To begin your investment journey, follow the steps below to select a desired poo
 
 Once a pool is selected, you'll be directed to a detailed page displaying information and options related to your chosen pool (in Figure 2).
 
-<figure><img src="../../.gitbook/assets/rwa3 (1).jpg" alt=""><figcaption><p>Figure 2: Personal investing page.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rwa_personal_page.png" alt=""><figcaption><p>Figure 2: Personal investing page.</p></figcaption></figure>
 
 On the detailed investing page, users are presented with five actions to facilitate their investment activities: `INVEST`, `WITHDRAW`, `CLAIM`, `TRANSFER OWNERSHIP`, and `SUBMIT WITHDRAWAL PROPOSAL`.
 
@@ -30,7 +30,7 @@ For first-time investors in the pool, clicking the `INVEST` button will guide yo
 
 Once the above tasks are done, the user needs to wait for the SPV to grant you permission to invest.
 
-<figure><img src="../../.gitbook/assets/rwa_invest_11.png" alt=""><figcaption><p>Figure 3: KYC verification &#x26; Agreement signing.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rwa_kyc.png" alt=""><figcaption><p>Figure 3: KYC verification &#x26; Agreement signing.</p></figcaption></figure>
 
 {% hint style="info" %}
 In the Joltify Testnet, as long as users sign in with Google, they can begin their investments.
@@ -40,13 +40,13 @@ In the Joltify Testnet, as long as users sign in with Google, they can begin the
 
 After receiving the investment permission from the SPV, the user can click the `INVEST` button again and input the desired amount to invest.
 
-<figure><img src="../../.gitbook/assets/rwa_invest_3.png" alt=""><figcaption><p>Figure 4: Investing.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rwa_invest.png" alt=""><figcaption><p>Figure 4: Investing.</p></figcaption></figure>
 
 As a result, the **Raise Amount** and **Loanable Funds** in the [Pool Details](investor-guideline.md#pool-details) section, along with the **Committed Capital** in the [My Details](investor-guideline.md#my-details) section, increase based on the deposited amount.
 
 <figure><img src="../../.gitbook/assets/rwa_invest_before.png" alt=""><figcaption><p>Figure 5: Before investing.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/rwa_invest_after (1).jpg" alt=""><figcaption><p>Figure 6: After investing.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rwa_invest_after.jpg" alt=""><figcaption><p>Figure 6: After investing.</p></figcaption></figure>
 
 ***
 
@@ -54,7 +54,7 @@ As a result, the **Raise Amount** and **Loanable Funds** in the [Pool Details](i
 
 The user can withdraw the committed assets by clicking the `WITHDRAW` button and inputing the desired amount.
 
-<figure><img src="../../.gitbook/assets/rwa_withdraw_1.png" alt=""><figcaption><p>Figure 7: Withdrawing the committed assets.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rwa_withdraw.png" alt=""><figcaption><p>Figure 7: Withdrawing the committed assets.</p></figcaption></figure>
 
 As a result, the **Committed Capital** in the [My Details](investor-guideline.md#my-details) section decreases based on the withdrawal amount.
 
