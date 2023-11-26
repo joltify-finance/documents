@@ -1,8 +1,8 @@
-# Bridge
+# Cross-Chain Bridge
 
 A bridging function in the context of cryptocurrency and decentralized finance (DeFi) refers to a mechanism that allows for the transfer of assets or data between different blockchain networks. This function is crucial because each blockchain operates independently, with its own protocols and ledger.
 
-The Joltify bridging function is a specialized feature designed for transferring assets between the Joltify chain (cosmos-based chain) and various  EVM-compatible blockchains (e.g., Ethereum and BNB Chain).&#x20;
+The Joltify bridging function is a specialized feature designed for transferring assets between the Joltify chain (cosmos-based chain) and various EVM-compatible blockchains (e.g., Ethereum and BNB Chain).
 
 ## Setup
 
