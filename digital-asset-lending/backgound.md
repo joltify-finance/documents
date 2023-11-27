@@ -10,9 +10,7 @@ The emergence of decentralized finance (DeFi) has further expanded the potential
 
 Overall, the needs for crypto assets are driven by their potential to offer greater control, security, and accessibility in the world of finance and commerce.
 
-
-
-## Mechanism Of  Digital Asset Lending
+## Mechanism Of Digital Asset Lending
 
 The mechanism of digital asset lending is based on the concept of borrowing and lending. In a digital asset lending arrangement, an individual or entity (the borrower) can borrow a certain amount of a digital asset from another individual or entity (the lender) in exchange for collateral. The borrower agrees to pay back the loan, plus interest, at a specified date in the future.
 
@@ -26,7 +24,4 @@ Digital asset lending can offer a number of benefits, including the ability to a
 
 One of the common problem in the lending is to decide the value of the collateral. Joltify uses price oracle mechanism to get the token prices from Binance, Coinbase or the similar reliable sources.
 
-
-
-<figure><img src="../.gitbook/assets/DigitalAssetLending.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/digital-asset-lending.jpg" alt=""><figcaption></figcaption></figure>
