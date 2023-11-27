@@ -49,6 +49,7 @@
   * [Notation Explanation](joltify-testnet/rwa-lending/notation-explanation.md)
   * [Investing Timeline](joltify-testnet/rwa-lending/investing-timeline.md)
 * [Cross-Chain Bridge](joltify-testnet/bridge.md)
+* [Joltify IBC Transfers](joltify-testnet/ibc-transfers.md)
 * [Airdrop Reward Distribution](joltify-testnet/airdrop-reward-distribution.md)
 
 ## Term of Use
