@@ -49,7 +49,7 @@ Airdrops will be distributed after the mainnet launch. The distribution ratio fo
 
 * Requirements
   * Attain the Luminary Jolter role.
-  * Community level: Reach level 40.
+  * Community level: Reach level 38.
   * Invite tracker: Have 15 successful invites.
 
 ### Ambassador
