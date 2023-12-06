@@ -10,7 +10,7 @@ Users are required to obtain their **jolt-address** to participate in the testne
 
 1. **Download** [the Keplr Wallet extension](https://chrome.google.com/webstore/detail/keplr/dmkamcknogkgcdfhhbddcghachkejeap) from the Chrome Web Store.
 2. **Create** new wallets or **Add** existing wallets to the Keplr Wallet.
-3. **Visit** the Joltify Testnet and **Approve** the connection in the Keplr Wallet.
+3. **Visit** the [Joltify Testnet](https://testnet2.joltify.io/) and **Approve** the connection in the Keplr Wallet.
 4. **Enable** the visibility of the Joltify Testnet network in the Keplr Wallet.
    1. Go to "Settings" -> "General" -> "Manage Chain Visibility".
    2. Search "Joltify Testnet network" by typing `JoltDev3`.
@@ -43,9 +43,9 @@ To facilitate the testing of the bridging function offered by the Joltify testne
 2. **Set Up Your Wallet**: Once installed, you can either create a new wallet or import existing wallets into MetaMask.
 3. **Add the Ethereum Mock Chain**: Finally, add an Ethereum mock chain to your MetaMask wallet for testing and development purposes.
    1. **Click** the network button located at the top-left corner of the interface and **Select** the "Add network" button to initiate the process of adding a customised network.\
-      ![](<../.gitbook/assets/metamask_1.png>)![](<../.gitbook/assets/metamask_2.png>)
+      ![](../.gitbook/assets/metamask\_1.png)![](../.gitbook/assets/metamask\_2.png)
    2. **Click** "Add a network maunually" and **Complete** the setup by filling in the necessary configuration details for the new chain.\
-      ![](<../.gitbook/assets/metamask_3.png>)![](<../.gitbook/assets/metamask_4.png>)
+      ![](../.gitbook/assets/metamask\_3.png)![](../.gitbook/assets/metamask\_4.png)
       1. (customisable) **Network name**: ETH Mock Chain
       2. **New RPC URL**: [http://65.109.48.184:8545](http://65.109.48.184:8545)
       3. **Chain ID**: 1337
@@ -57,7 +57,7 @@ To facilitate the testing of the bridging function offered by the Joltify testne
        1. JOLT-USDT: 0xCB4471f0FBE3d66ad0b9A629606C6509A80612d6
        2. JOLT-USDC: 0x7CC0DD0ec9AC0F68576281Dd2bA69a7b6c2B243e
 
-    ![](<../.gitbook/assets/metamask_5.png>)    ![](<../.gitbook/assets/metamask_6.png>)
+    ![](../.gitbook/assets/metamask\_5.png) ![](../.gitbook/assets/metamask\_6.png)
 
 Upon completing the setup, you will be able to view your token balance displayed in your MetaMask wallet as shown below:
 

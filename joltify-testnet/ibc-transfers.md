@@ -1,8 +1,8 @@
 # Joltify IBC Transfers
 
-The Joltify chain empowers the IBC protocol, connecting 30+ IBC chains and allowing users to effortlessly exchange information and assets between the Joltify chain and other chains.
+The Joltify chain empowers the IBC protocol, potentially connecting 30+ IBC chains and allowing users to effortlessly exchange information and assets between the Joltify chain and other chains.
 
-In this tutorial, we'll walk you through the simple steps to conduct IBC transfers between the Joltify testnet chain and the Cosmos testnet chain.
+In this tutorial, we'll walk you through the simple steps to conduct IBC transfers between the Joltify testnet and the Cosmos testnet.
 
 ***
 
@@ -37,12 +37,58 @@ Once you've completed all these settings, you'll be ready to conduct Joltify IBC
 
 ***
 
-## Joltify IBC Transfers
+## Joltify IBC Transfers on the Joltify testnet
 
-This tutorial demonstrates how to conduct IBC transfers between the Joltify testnet and the Cosmos testnet.
+Users can conduct IBC transfers on the [asset page](https://testnet2.joltify.io/assets) of the Joltify testnet for assets
 
 {% hint style="info" %}
-You can watch the [demonstration video](https://www.youtube.com/watch?v=OR3JuKweSeA) for quick guidance.
+You can watch the [demonstration video](https://www.youtube.com/watch?v=WNIalyvoD4k) for quick guidance.
+{% endhint %}
+
+### Select assets labelled as "IBC"
+
+Users can conduct IBC transfers on the Joltify testnet for assets labelled as "IBC".
+
+<figure><img src="../.gitbook/assets/testnet_ibc_1.jpg" alt=""><figcaption></figcaption></figure>
+
+In this case, we will demonstrate Joltify IBC transfers by transferring "ATOM" between the Joltify testnet and the Cosmos testnet.
+
+### Deposit
+
+When you click the "**Deposit**" button, a new window appears with the following parameters:
+
+* **Balance**: Shows the balance of ATOM coins on the Cosmos testnet, fetched from the Keplr wallet.
+* **Amount**: Specifies the quantity of ATOM coins you wish to transfer from the Cosmos testnet to the Joltify testnet.
+* **Destination Address**: Displays the receiving address on the Joltify chain, which is auto-filled if the Keplr wallet is connected.
+* **Memo**: An optional field for users to add a message to their "Deposit" transaction.
+
+<figure><img src="../.gitbook/assets/testnet_ibc_2.jpg" alt=""><figcaption></figcaption></figure>
+
+Once the IBC transfer transaction is conducted successfully, the amount of asset will increase accordingly on the page.
+
+<figure><img src="../.gitbook/assets/testnet_ibc_3.jpg" alt=""><figcaption></figcaption></figure>
+
+### Withdraw
+
+When you click the "**Withdraw**" button, a new window appears with the following parameters:
+
+* **Balance**: Shows the balance of ATOM coins on the Joltify testnet, fetched from the Keplr wallet.
+* **Amount**: Specifies the quantity of ATOM coins you wish to transfer from the Joltify testnet to the Cosmos testnet.
+* **Destination Address**: Displays the receiving address on the Cosmos testnet, which is auto-filled if the Keplr wallet is connected. Moreover, you can also provided the expected destination address for the `Withdraw` action.
+* **Memo**: An optional field for users to add a message to their "Withdraw" transaction.
+
+<figure><img src="../.gitbook/assets/testnet_ibc_4.jpg" alt=""><figcaption></figcaption></figure>
+
+Once the IBC transfer transaction is conducted successfully, the amount of asset will decrease accordingly on the page.
+
+***
+
+## Joltify IBC Transfers using the Keplr wallet
+
+Users can also conduct IBC transfers between the Joltify testnet and the Cosmos testnet.
+
+{% hint style="info" %}
+You can watch the [demonstration video](https://www.youtube.com/watch?v=WNIalyvoD4k) for quick guidance.
 {% endhint %}
 
 ### Transfer \`JOLT\` from the Joltify testnet to the Cosmos testnet
@@ -77,7 +123,7 @@ After the successful transaction, you'll notice a decrease in JOLT coins on the 
 * Select the receiver's address on the Joltify testnet.
 * Input the amount of `ATOM` coins you want to transfer to the Joltify testnet.
 * Approve the transaction.\
-  ![](<../.gitbook/assets/ibc\_cosmos\_1.jpg>)![](../.gitbook/assets/ibc\_cosmos\_2.jpg)\
+  ![](../.gitbook/assets/ibc\_cosmos\_1.jpg)![](../.gitbook/assets/ibc\_cosmos\_2.jpg)\
   ![](../.gitbook/assets/ibc\_cosmos\_3.jpg)![](../.gitbook/assets/ibc\_cosmos\_4.jpg)
 
 After the successful transaction, you'll notice a decrease in ATOM coins on the Cosmos testnet and an increase of ATOM coins labeled as "IBC" on the Joltify testnet.
