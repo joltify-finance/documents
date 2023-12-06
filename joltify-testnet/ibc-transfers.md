@@ -42,7 +42,7 @@ Once you've completed all these settings, you'll be ready to conduct Joltify IBC
 Users can conduct IBC transfers on the [asset page](https://testnet2.joltify.io/assets) of the Joltify testnet for assets
 
 {% hint style="info" %}
-You can watch the [demonstration video](https://www.youtube.com/watch?v=WNIalyvoD4k) for quick guidance.
+You can watch the [demonstration video](https://www.youtube.com/watch?v=G6RcwaB4vTk) for quick guidance.
 {% endhint %}
 
 ### Select assets labelled as "IBC"
@@ -88,7 +88,7 @@ Once the IBC transfer transaction is conducted successfully, the amount of asset
 Users can also conduct IBC transfers between the Joltify testnet and the Cosmos testnet.
 
 {% hint style="info" %}
-You can watch the [demonstration video](https://www.youtube.com/watch?v=WNIalyvoD4k) for quick guidance.
+You can watch the [demonstration video](https://www.youtube.com/watch?v=G6RcwaB4vTk) for quick guidance.
 {% endhint %}
 
 ### Transfer \`JOLT\` from the Joltify testnet to the Cosmos testnet
