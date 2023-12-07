@@ -2,13 +2,13 @@
 
 There are three pivotal pages for RWA investing:
 
-1. [**The "RWA" Page**](./)
+1. [**The "RWA" Page**](notation-explanation.md#the-rwa-page)
 2. [**The "Project" Page**](notation-explanation.md#the-project-page)
 3. [**The "Personal Investment" Page**](notation-explanation.md#the-personal-investment-page)
 
 For a better understanding of the RWA project investing process, we've provided explanations for the notations used on each page.
 
-## The ”RWA“ Page
+## The "RWA" Page
 
 <figure><img src="../../.gitbook/assets/rwa1.png" alt=""><figcaption><p>Figure 1: The RWA page lists all available RWA projects for investing.</p></figcaption></figure>
 
@@ -22,7 +22,7 @@ The ”RWA“ page showcases basic details of all listed RWA projects. Specifica
 
 ***
 
-## The ”Project“ Page
+## The "Project" Page
 
 <figure><img src="../../.gitbook/assets/rwa2.png" alt=""><figcaption><p>Figure 2: The Project page shows the details of created pools in a RWA project.</p></figcaption></figure>
 

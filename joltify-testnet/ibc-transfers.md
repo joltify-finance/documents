@@ -134,7 +134,7 @@ After the successful transaction, you'll notice a decrease in ATOM coins on the 
 
 ## Supported IBC Channels
 
-### Joltify Testnet <-> Cosmos Testnet
+### Joltify Testnet <--> Cosmos Testnet
 
 * Channel ID (from the Joltify testnet): `channel-2`
 * Channel ID (from the Cosmos testnet): `channel-3361`
