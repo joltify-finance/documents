@@ -37,6 +37,10 @@
 * [JOLTIFY Chain Techs](joltify-techs/joltify-chain-techs/README.md)
   * [Validator Election & Punishment](joltify-techs/joltify-chain-techs/validator-election-and-punishment.md)
   * [JOLTIFY Chain Bridge](joltify-techs/joltify-chain-techs/joltify-chain-bridge.md)
+* [Development on Joltify EVM](joltify-techs/development-on-joltify-evm/README.md)
+  * [Configuration](joltify-techs/development-on-joltify-evm/configuration.md)
+  * [Token Conversion](joltify-techs/development-on-joltify-evm/token-conversion.md)
+  * [Development Tutorial](joltify-techs/development-on-joltify-evm/development-tutorial.md)
 
 ## Joltify Testnet
 
