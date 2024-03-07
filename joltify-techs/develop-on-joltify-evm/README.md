@@ -2,7 +2,7 @@
 description: >-
   Learn how to build fast, scalable, and secure decentralized applications
   (dApps) on Joltfy. Joltify EVM is a key component of the Joltify Chain, which
-  is an integral part of the Cosmos ecosystem. This
+  is an integral part of the Cosmos ecosystem.
 ---
 
 # Develop on Joltify EVM

@@ -37,10 +37,10 @@
 * [JOLTIFY Chain Techs](joltify-techs/joltify-chain-techs/README.md)
   * [Validator Election & Punishment](joltify-techs/joltify-chain-techs/validator-election-and-punishment.md)
   * [JOLTIFY Chain Bridge](joltify-techs/joltify-chain-techs/joltify-chain-bridge.md)
-* [Develop on Joltify EVM](joltify-techs/joltify-chain-techs-1/README.md)
-  * [Development Configuration](joltify-techs/joltify-chain-techs-1/validator-election-and-punishment.md)
-  * [Testnet Faucet & Token Conversion](joltify-techs/joltify-chain-techs-1/testnet-faucet-and-token-conversion.md)
-  * [Development Tutorial](joltify-techs/joltify-chain-techs-1/development-tutorial.md)
+* [Develop on Joltify EVM](joltify-techs/develop-on-joltify-evm/README.md)
+  * [Configuration](joltify-techs/develop-on-joltify-evm/configuration.md)
+  * [Token Conversion](joltify-techs/develop-on-joltify-evm/token-conversion.md)
+  * [Development Tutorial](joltify-techs/develop-on-joltify-evm/development-tutorial.md)
 
 ## Joltify Testnet
 

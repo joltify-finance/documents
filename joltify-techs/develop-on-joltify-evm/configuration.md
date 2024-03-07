@@ -1,4 +1,4 @@
-# Development Configuration
+# Configuration
 
 ### Joltify Mainnet
 
@@ -11,4 +11,3 @@
 * Chain ID: 1730
 * Currency Symbol: JOLT
 * Explorer URL: to be updated
-
