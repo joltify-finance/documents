@@ -54,7 +54,16 @@
   * [Investing Timeline](joltify-testnet/rwa-lending/investing-timeline.md)
 * [Cross-Chain Bridge](joltify-testnet/bridge.md)
 * [Joltify IBC Transfers](joltify-testnet/ibc-transfers.md)
-* [Airdrop Reward Distribution](joltify-testnet/airdrop-reward-distribution.md)
+
+## Joltify Point System
+
+* [Introduction](joltify-point-system/introduction.md)
+* [Invitation Mechanism](joltify-point-system/invitation-mechanism.md)
+* [Basic Missions](joltify-point-system/basic-missions.md)
+* [Testnet Missions](joltify-point-system/testnet-missions.md)
+* [Mainnet Missions (Coming soon)](joltify-point-system/mainnet-missions-coming-soon.md)
+* [Discord Role Claim](joltify-point-system/discord-role-claim.md)
+* [Partner Missions (Coming soon)](joltify-point-system/partner-missions-coming-soon.md)
 
 ## Term of Use
 
