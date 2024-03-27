@@ -2,7 +2,7 @@
 
 For each Discord role, a corresponding number of points will be assigned. This system ensures that users are rewarded based on their specific roles within the community, reflecting their contribution and participation levels.
 
-### "**Galxe/Zealy"** -> 1,200 points
+### "**Galxe/Zealy"** -> 1,500 points
 
 ### "**Testnet Contributor**" -> 1,800 points
 
@@ -12,9 +12,9 @@ For each Discord role, a corresponding number of points will be assigned. This s
 
 ### "**Vanguard Jolter**" -> 2,500 points
 
-### "**Ambassador**" -> 2,000 points
+### "**Ambassador**" -> 3,200 points
 
-### "**Twitter Follower**" -> 50 points
+### "**Twitter Follower**" -> 100 points
 
 <figure><img src="../.gitbook/assets/ps_role_claim.png" alt=""><figcaption><p>Figure 1. Discord Role Claim</p></figcaption></figure>
 
